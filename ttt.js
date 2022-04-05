@@ -1,25 +1,28 @@
-console.log("hello World!")
+import {useState} from 'react'
+console.log("hello Kingo!")
 
 
 
 function Square({props}) {
-       let state = {
-          value: null,
-        };
+  let [state,setState] = useState(0);
 
     
       return (
         <button
         className="square"
-        onClick={() => this.setState({value: 'X'})}
+        onClick={() => setState({value: 'X'})}
         >
-        {state.value}
+          {state.value}
       </button>
       );
     }
   
     
   function Board(){
+    let State = {
+      squares: Array(9).fill(null),
+    };
+
     function renderSquare(i) {
         return <Square props={{value:i}} />;
     }
