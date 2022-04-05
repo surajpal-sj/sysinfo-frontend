@@ -1,0 +1,32 @@
+sys_name
+last_run
+user.Users
+user.active  xxxx
+os.name
+os.version --windows 10
+os.arch
+
+systemdata.system.name
+systemdata.system.hostname
+systemdata.system.uptime
+
+systemdata.system.cpu.name
+systemdata.system.cpu.cores
+systemdata.system.cpu.threads
+systemdata.system.cpu.arch
+
+systemdata.system.memory.total
+systemdata.system.memory.used
+systemdata.system.memory.free
+systemdata.system.memory.percentage
+
+systemdata.system.network.hostname
+systemdata.system.network.ip
+systemdata.system.network.mac
+
+systemdata.system.disk.total     
+systemdata.system.disk.used     
+systemdata.system.disk.free
+
+systemdata.system.gpu.list[0]
+

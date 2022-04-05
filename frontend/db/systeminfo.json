@@ -1,0 +1,9008 @@
+[{
+  "_id": {
+    "$oid": "621e221219547adf68ef7c1b"
+  },
+  "sys_name": "SJ-PC",
+  "last_run": "01/03/2022 19:27:54",
+  "user": {
+    "Users": [
+      "gokin"
+    ],
+    "active": "SJ-PC$"
+  },
+  "os": {
+    "name": "SJ-PC",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SJ-PC",
+    "hostname": "SJ-PC",
+    "uptime": "2022/2/28 16:22:19",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 42 Stepping 7, GenuineIntel",
+      "cores": 2,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "4.84GB",
+      "used": "3.63GB",
+      "free": "1.21GB",
+      "percentage": 75
+    },
+    "network": {
+      "hostname": "SJ-PC",
+      "ip": "10.212.135.73",
+      "mac": "00:09:0f:fe:00:01"
+    },
+    "disk": {
+      "total": "238.47GB",
+      "used": "193.25GB",
+      "free": "45.22GB"
+    },
+    "gpu": []
+  }
+},{
+  "_id": {
+    "$oid": "621e22f019547adf68ef9049"
+  },
+  "sys_name": "SYS355",
+  "last_run": "29/03/2022 13:25:20",
+  "user": {
+    "Users": [],
+    "active": "SYS355$"
+  },
+  "os": {
+    "name": "SYS355",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS355",
+    "hostname": "SYS355",
+    "uptime": "2022/3/29 3:30:44",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.61GB",
+      "free": "13.28GB",
+      "percentage": 16.4
+    },
+    "network": {
+      "hostname": "SYS355",
+      "ip": "192.168.18.62",
+      "mac": "d8:bb:c1:5e:bc:cb"
+    },
+    "disk": {
+      "total": "116.57GB",
+      "used": "95.95GB",
+      "free": "20.62GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "31.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "621e234b19547adf68ef9a6b"
+  },
+  "sys_name": "SYS241",
+  "last_run": "02/03/2022 00:05:40",
+  "user": {
+    "Users": [
+      "Nav497"
+    ],
+    "active": "SYS241$"
+  },
+  "os": {
+    "name": "SYS241",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS241",
+    "hostname": "SYS241",
+    "uptime": "2022/3/1 16:39:29",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "7.38GB",
+      "free": "8.55GB",
+      "percentage": 46.3
+    },
+    "network": {
+      "hostname": "SYS241",
+      "ip": "192.168.18.63",
+      "mac": "b4:2e:99:53:26:8f"
+    },
+    "disk": {
+      "total": "222.46GB",
+      "used": "90.64GB",
+      "free": "131.82GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1825.0MB",
+        "223.0MB",
+        "2048.0MB",
+        "0.0%",
+        "35.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "621f73bd19547adf680b0e14"
+  },
+  "sys_name": "SYS231",
+  "last_run": "29/03/2022 13:17:16",
+  "user": {
+    "Users": [
+      "Artist"
+    ],
+    "active": "SYS231$"
+  },
+  "os": {
+    "name": "SYS231",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS231",
+    "hostname": "SYS231",
+    "uptime": "2022/3/29 3:30:30",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "7.88GB",
+      "free": "8.06GB",
+      "percentage": 49.4
+    },
+    "network": {
+      "hostname": "SYS231",
+      "ip": "192.168.18.32",
+      "mac": "b4:2e:99:53:25:6a"
+    },
+    "disk": {
+      "total": "222.96GB",
+      "used": "106.99GB",
+      "free": "115.96GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "111.0MB",
+        "1937.0MB",
+        "2048.0MB",
+        "0.0%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220823919547adf68217a22"
+  },
+  "sys_name": "SYS004",
+  "last_run": "29/03/2022 13:17:36",
+  "user": {
+    "Users": [],
+    "active": "SYS004$"
+  },
+  "os": {
+    "name": "SYS004",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS004",
+    "hostname": "SYS004",
+    "uptime": "2022/3/29 3:30:31",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "11.88GB",
+      "used": "2.34GB",
+      "free": "9.54GB",
+      "percentage": 19.7
+    },
+    "network": {
+      "hostname": "SYS004",
+      "ip": "192.168.18.11",
+      "mac": "40:8d:5c:35:eb:dd"
+    },
+    "disk": {
+      "total": "110.74GB",
+      "used": "67.24GB",
+      "free": "43.50GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1963.0MB",
+        "85.0MB",
+        "2048.0MB",
+        "nan%",
+        "33.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220824a19547adf68217a4a"
+  },
+  "sys_name": "SYS116",
+  "last_run": "29/03/2022 13:17:20",
+  "user": {
+    "Users": [],
+    "active": "SYS116$"
+  },
+  "os": {
+    "name": "SYS116",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS116",
+    "hostname": "SYS116",
+    "uptime": "2022/3/29 3:30:26",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "2.32GB",
+      "free": "13.64GB",
+      "percentage": 14.5
+    },
+    "network": {
+      "hostname": "SYS116",
+      "ip": "192.168.18.12",
+      "mac": "e0:d5:5e:70:bd:83"
+    },
+    "disk": {
+      "total": "111.18GB",
+      "used": "54.99GB",
+      "free": "56.18GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220825819547adf68217a66"
+  },
+  "sys_name": "SYS363",
+  "last_run": "29/03/2022 13:16:58",
+  "user": {
+    "Users": [],
+    "active": "SYS363$"
+  },
+  "os": {
+    "name": "SYS363",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS363",
+    "hostname": "SYS363",
+    "uptime": "2022/3/29 3:30:18",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.55GB",
+      "free": "13.35GB",
+      "percentage": 16.1
+    },
+    "network": {
+      "hostname": "SYS363",
+      "ip": "192.168.18.13",
+      "mac": "d8:bb:c1:3f:8a:9e"
+    },
+    "disk": {
+      "total": "126.33GB",
+      "used": "91.77GB",
+      "free": "34.56GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "29.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220826719547adf68217a84"
+  },
+  "sys_name": "SYS112",
+  "last_run": "28/03/2022 19:26:35",
+  "user": {
+    "Users": [
+      "836.Manav",
+      "admin"
+    ],
+    "active": "SYS112$"
+  },
+  "os": {
+    "name": "SYS112",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS112",
+    "hostname": "SYS112",
+    "uptime": "2022/3/28 16:8:50",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "9.22GB",
+      "free": "6.74GB",
+      "percentage": 57.7
+    },
+    "network": {
+      "hostname": "SYS112",
+      "ip": "192.168.18.14",
+      "mac": "e0:d5:5e:02:d8:6f"
+    },
+    "disk": {
+      "total": "222.96GB",
+      "used": "88.35GB",
+      "free": "134.61GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1271.0MB",
+        "777.0MB",
+        "2048.0MB",
+        "0.0%",
+        "36.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220827619547adf68217ab0"
+  },
+  "sys_name": "SYS057",
+  "last_run": "29/03/2022 13:17:00",
+  "user": {
+    "Users": [],
+    "active": "SYS057$"
+  },
+  "os": {
+    "name": "SYS057",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS057",
+    "hostname": "SYS057",
+    "uptime": "2022/3/29 3:30:28",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.95GB",
+      "used": "2.49GB",
+      "free": "13.46GB",
+      "percentage": 15.6
+    },
+    "network": {
+      "hostname": "SYS057",
+      "ip": "192.168.18.15",
+      "mac": "1c:1b:0d:c1:df:aa"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "85.46GB",
+      "free": "25.71GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1963.0MB",
+        "85.0MB",
+        "2048.0MB",
+        "nan%",
+        "34.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220828219547adf68217aea"
+  },
+  "sys_name": "SYS249",
+  "last_run": "29/03/2022 13:17:11",
+  "user": {
+    "Users": [
+      "1339.Sunny"
+    ],
+    "active": "SYS249$"
+  },
+  "os": {
+    "name": "SYS249",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS249",
+    "hostname": "SYS249",
+    "uptime": "2022/3/29 3:30:27",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "10.30GB",
+      "free": "5.64GB",
+      "percentage": 64.6
+    },
+    "network": {
+      "hostname": "SYS249",
+      "ip": "192.168.18.16",
+      "mac": "18:c0:4d:b1:d9:c6"
+    },
+    "disk": {
+      "total": "231.77GB",
+      "used": "92.39GB",
+      "free": "139.38GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "219.0MB",
+        "1829.0MB",
+        "2048.0MB",
+        "25.0%",
+        "37.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220829419547adf68217b28"
+  },
+  "sys_name": "SYS114",
+  "last_run": "29/03/2022 13:17:49",
+  "user": {
+    "Users": [],
+    "active": "SYS114$"
+  },
+  "os": {
+    "name": "SYS114",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS114",
+    "hostname": "SYS114",
+    "uptime": "2022/3/29 3:30:25",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "2.29GB",
+      "free": "13.67GB",
+      "percentage": 14.3
+    },
+    "network": {
+      "hostname": "SYS114",
+      "ip": "192.168.18.17",
+      "mac": "e0:d5:5e:02:ce:4c"
+    },
+    "disk": {
+      "total": "99.52GB",
+      "used": "87.74GB",
+      "free": "11.78GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "38.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622082a119547adf68217d87"
+  },
+  "sys_name": "SYS250",
+  "last_run": "29/03/2022 13:17:12",
+  "user": {
+    "Users": [],
+    "active": "SYS250$"
+  },
+  "os": {
+    "name": "SYS250",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS250",
+    "hostname": "SYS250",
+    "uptime": "2022/3/29 3:30:30",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "4.31GB",
+      "free": "11.62GB",
+      "percentage": 27.1
+    },
+    "network": {
+      "hostname": "SYS250",
+      "ip": "192.168.56.1",
+      "mac": "18:c0:4d:b1:d5:92"
+    },
+    "disk": {
+      "total": "232.28GB",
+      "used": "156.64GB",
+      "free": "75.65GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "29.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622082b019547adf682184ea"
+  },
+  "sys_name": "SYS229",
+  "last_run": "29/03/2022 13:17:32",
+  "user": {
+    "Users": [],
+    "active": "SYS229$"
+  },
+  "os": {
+    "name": "SYS229",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS229",
+    "hostname": "SYS229",
+    "uptime": "2022/3/29 3:30:32",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "2.62GB",
+      "free": "13.32GB",
+      "percentage": 16.4
+    },
+    "network": {
+      "hostname": "SYS229",
+      "ip": "192.168.18.19",
+      "mac": "b4:2e:99:53:26:55"
+    },
+    "disk": {
+      "total": "122.48GB",
+      "used": "88.41GB",
+      "free": "34.07GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622082c119547adf68218543"
+  },
+  "sys_name": "FG-35",
+  "last_run": "29/03/2022 13:17:33",
+  "user": {
+    "Users": [],
+    "active": "FG-35$"
+  },
+  "os": {
+    "name": "FG-35",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "FG-35",
+    "hostname": "FG-35",
+    "uptime": "2022/3/29 3:30:29",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.57GB",
+      "free": "13.37GB",
+      "percentage": 16.1
+    },
+    "network": {
+      "hostname": "FG-35",
+      "ip": "192.168.18.20",
+      "mac": "1c:87:2c:71:c8:4b"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "99.44GB",
+      "free": "11.73GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1963.0MB",
+        "85.0MB",
+        "2048.0MB",
+        "nan%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622082e319547adf682185cc"
+  },
+  "sys_name": "SYS207",
+  "last_run": "29/03/2022 13:17:14",
+  "user": {
+    "Users": [],
+    "active": "SYS207$"
+  },
+  "os": {
+    "name": "SYS207",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS207",
+    "hostname": "SYS207",
+    "uptime": "2022/3/29 3:30:29",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.34GB",
+      "free": "13.59GB",
+      "percentage": 14.7
+    },
+    "network": {
+      "hostname": "SYS207",
+      "ip": "192.168.18.21",
+      "mac": "e0:d5:5e:7b:bc:87"
+    },
+    "disk": {
+      "total": "222.95GB",
+      "used": "82.94GB",
+      "free": "140.01GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "31.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622082f019547adf6821860d"
+  },
+  "sys_name": "SYS383",
+  "last_run": "29/03/2022 13:17:04",
+  "user": {
+    "Users": [
+      "artist"
+    ],
+    "active": "SYS383$"
+  },
+  "os": {
+    "name": "SYS383",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS383",
+    "hostname": "SYS383",
+    "uptime": "2022/3/29 3:30:28",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "8.55GB",
+      "free": "7.35GB",
+      "percentage": 53.8
+    },
+    "network": {
+      "hostname": "SYS383",
+      "ip": "192.168.18.22",
+      "mac": "d8:bb:c1:3f:8b:1f"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "87.03GB",
+      "free": "145.23GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "111.0MB",
+        "1937.0MB",
+        "2048.0MB",
+        "0.0%",
+        "29.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220830019547adf68218667"
+  },
+  "sys_name": "SYS012",
+  "last_run": "29/03/2022 13:17:15",
+  "user": {
+    "Users": [
+      "1414.Harikiran"
+    ],
+    "active": "SYS012$"
+  },
+  "os": {
+    "name": "SYS012",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS012",
+    "hostname": "SYS012",
+    "uptime": "2022/3/29 3:30:32",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "7.67GB",
+      "free": "8.26GB",
+      "percentage": 48.1
+    },
+    "network": {
+      "hostname": "SYS012",
+      "ip": "192.168.18.23",
+      "mac": "08:62:66:38:1a:44"
+    },
+    "disk": {
+      "total": "110.71GB",
+      "used": "84.58GB",
+      "free": "26.14GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "56.0MB",
+        "1992.0MB",
+        "2048.0MB",
+        "nan%",
+        "37.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220830c19547adf682186ad"
+  },
+  "sys_name": "SYS372",
+  "last_run": "29/03/2022 13:17:07",
+  "user": {
+    "Users": [
+      "Artist"
+    ],
+    "active": "SYS372$"
+  },
+  "os": {
+    "name": "SYS372",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS372",
+    "hostname": "SYS372",
+    "uptime": "2022/3/29 3:30:31",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "6.15GB",
+      "free": "9.75GB",
+      "percentage": 38.7
+    },
+    "network": {
+      "hostname": "SYS372",
+      "ip": "192.168.18.24",
+      "mac": "d8:bb:c1:3f:8a:ac"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "82.76GB",
+      "free": "149.50GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "572.0MB",
+        "1476.0MB",
+        "2048.0MB",
+        "4.0%",
+        "31.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220831a19547adf68218b49"
+  },
+  "sys_name": "SYS027",
+  "last_run": "29/03/2022 13:17:34",
+  "user": {
+    "Users": [
+      "684.Rahul"
+    ],
+    "active": "SYS027$"
+  },
+  "os": {
+    "name": "SYS027",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS027",
+    "hostname": "SYS027",
+    "uptime": "2022/3/29 3:30:23",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "6.27GB",
+      "free": "9.69GB",
+      "percentage": 39.3
+    },
+    "network": {
+      "hostname": "SYS027",
+      "ip": "192.168.18.25",
+      "mac": "e0:d5:5e:02:d8:51"
+    },
+    "disk": {
+      "total": "111.18GB",
+      "used": "81.77GB",
+      "free": "29.41GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "382.0MB",
+        "1666.0MB",
+        "2048.0MB",
+        "nan%",
+        "33.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220832c19547adf682190cb"
+  },
+  "sys_name": "SYS108",
+  "last_run": "29/03/2022 13:17:08",
+  "user": {
+    "Users": [],
+    "active": "SYS108$"
+  },
+  "os": {
+    "name": "SYS108",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS108",
+    "hostname": "SYS108",
+    "uptime": "2022/3/29 3:30:23",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "2.52GB",
+      "free": "13.44GB",
+      "percentage": 15.8
+    },
+    "network": {
+      "hostname": "SYS108",
+      "ip": "192.168.18.26",
+      "mac": "e0:d5:5e:03:cb:88"
+    },
+    "disk": {
+      "total": "222.95GB",
+      "used": "81.03GB",
+      "free": "141.92GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "33.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220833b19547adf68219124"
+  },
+  "sys_name": "SYS31",
+  "last_run": "29/03/2022 13:17:09",
+  "user": {
+    "Users": [],
+    "active": "SYS31$"
+  },
+  "os": {
+    "name": "SYS31",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS31",
+    "hostname": "SYS31",
+    "uptime": "2022/3/29 3:30:21",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.30GB",
+      "free": "13.64GB",
+      "percentage": 14.4
+    },
+    "network": {
+      "hostname": "SYS31",
+      "ip": "192.168.18.27",
+      "mac": "08:62:66:38:1d:7c"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "73.88GB",
+      "free": "37.29GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1963.0MB",
+        "85.0MB",
+        "2048.0MB",
+        "nan%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220834719547adf68219171"
+  },
+  "sys_name": "SYS367",
+  "last_run": "29/03/2022 13:17:08",
+  "user": {
+    "Users": [],
+    "active": "SYS367$"
+  },
+  "os": {
+    "name": "SYS367",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS367",
+    "hostname": "SYS367",
+    "uptime": "2022/3/29 3:30:27",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.56GB",
+      "free": "13.33GB",
+      "percentage": 16.1
+    },
+    "network": {
+      "hostname": "SYS367",
+      "ip": "192.168.18.28",
+      "mac": "d8:bb:c1:5e:bc:fa"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "133.77GB",
+      "free": "98.50GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220835919547adf682191d6"
+  },
+  "sys_name": "SYS014",
+  "last_run": "29/03/2022 13:17:36",
+  "user": {
+    "Users": [
+      "Parshant448"
+    ],
+    "active": "SYS014$"
+  },
+  "os": {
+    "name": "SYS014",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS014",
+    "hostname": "SYS014",
+    "uptime": "2022/3/29 3:30:33",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 94 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.95GB",
+      "used": "8.66GB",
+      "free": "7.28GB",
+      "percentage": 54.3
+    },
+    "network": {
+      "hostname": "SYS014",
+      "ip": "192.168.18.29",
+      "mac": "40:8d:5c:9d:71:78"
+    },
+    "disk": {
+      "total": "110.72GB",
+      "used": "58.37GB",
+      "free": "52.35GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "82.0MB",
+        "1966.0MB",
+        "2048.0MB",
+        "nan%",
+        "36.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220836819547adf68219238"
+  },
+  "sys_name": "SYS008",
+  "last_run": "29/03/2022 13:17:42",
+  "user": {
+    "Users": [],
+    "active": "SYS008$"
+  },
+  "os": {
+    "name": "SYS008",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS008",
+    "hostname": "SYS008",
+    "uptime": "2022/3/29 3:30:30",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.91GB",
+      "used": "2.44GB",
+      "free": "13.47GB",
+      "percentage": 15.3
+    },
+    "network": {
+      "hostname": "SYS008",
+      "ip": "192.168.18.30",
+      "mac": "40:8d:5c:35:e7:5b"
+    },
+    "disk": {
+      "total": "111.23GB",
+      "used": "75.69GB",
+      "free": "35.54GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1963.0MB",
+        "85.0MB",
+        "2048.0MB",
+        "nan%",
+        "31.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220837919547adf682192b7"
+  },
+  "sys_name": "FG-14",
+  "last_run": "29/03/2022 13:17:11",
+  "user": {
+    "Users": [
+      "artist"
+    ],
+    "active": "FG-14$"
+  },
+  "os": {
+    "name": "FG-14",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "FG-14",
+    "hostname": "FG-14",
+    "uptime": "2022/3/29 3:31:15",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "8.19GB",
+      "free": "7.71GB",
+      "percentage": 51.5
+    },
+    "network": {
+      "hostname": "FG-14",
+      "ip": "192.168.19.31",
+      "mac": "40:8d:5c:35:e7:5c"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "86.00GB",
+      "free": "25.17GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "440.0MB",
+        "1608.0MB",
+        "2048.0MB",
+        "nan%",
+        "41.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220838f19547adf6821936b"
+  },
+  "sys_name": "SYS001",
+  "last_run": "29/03/2022 20:37:14",
+  "user": {
+    "Users": [],
+    "active": "SYS001$"
+  },
+  "os": {
+    "name": "SYS001",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS001",
+    "hostname": "SYS001",
+    "uptime": "2022/3/29 3:31:9",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 94 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.95GB",
+      "used": "2.46GB",
+      "free": "13.49GB",
+      "percentage": 15.4
+    },
+    "network": {
+      "hostname": "SYS001",
+      "ip": "192.168.18.140",
+      "mac": "1c:1b:0d:c1:df:a9"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "70.75GB",
+      "free": "40.42GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1987.0MB",
+        "61.0MB",
+        "2048.0MB",
+        "nan%",
+        "35.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220839d19547adf68219cfb"
+  },
+  "sys_name": "SYS053",
+  "last_run": "29/03/2022 13:17:05",
+  "user": {
+    "Users": [],
+    "active": "SYS053$"
+  },
+  "os": {
+    "name": "SYS053",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS053",
+    "hostname": "SYS053",
+    "uptime": "2022/3/29 3:30:32",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.95GB",
+      "used": "2.54GB",
+      "free": "13.41GB",
+      "percentage": 15.9
+    },
+    "network": {
+      "hostname": "SYS053",
+      "ip": "192.168.18.34",
+      "mac": "1c:1b:0d:c1:e8:3c"
+    },
+    "disk": {
+      "total": "110.21GB",
+      "used": "86.50GB",
+      "free": "23.71GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1963.0MB",
+        "85.0MB",
+        "2048.0MB",
+        "nan%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622083ab19547adf68219dad"
+  },
+  "sys_name": "SYS111",
+  "last_run": "29/03/2022 13:17:14",
+  "user": {
+    "Users": [],
+    "active": "SYS111$"
+  },
+  "os": {
+    "name": "SYS111",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS111",
+    "hostname": "SYS111",
+    "uptime": "2022/3/29 3:30:32",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "2.56GB",
+      "free": "13.40GB",
+      "percentage": 16
+    },
+    "network": {
+      "hostname": "SYS111",
+      "ip": "192.168.18.35",
+      "mac": "e0:d5:5e:02:d9:57"
+    },
+    "disk": {
+      "total": "122.99GB",
+      "used": "70.25GB",
+      "free": "52.75GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622083ba19547adf68219e18"
+  },
+  "sys_name": "SYS052",
+  "last_run": "29/03/2022 13:16:54",
+  "user": {
+    "Users": [
+      "artist"
+    ],
+    "active": "SYS052$"
+  },
+  "os": {
+    "name": "SYS052",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS052",
+    "hostname": "SYS052",
+    "uptime": "2022/3/29 3:30:31",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.95GB",
+      "used": "4.63GB",
+      "free": "11.32GB",
+      "percentage": 29
+    },
+    "network": {
+      "hostname": "SYS052",
+      "ip": "192.168.18.36",
+      "mac": "1c:1b:0d:c1:e8:50"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "70.91GB",
+      "free": "40.26GB"
+    },
+    "gpu": [
+      [
+        "NVIDIA GeForce GT 730",
+        "1799.0MB",
+        "249.0MB",
+        "2048.0MB",
+        "nan%",
+        "36.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622083cb19547adf68219e9a"
+  },
+  "sys_name": "SYS117",
+  "last_run": "29/03/2022 13:17:14",
+  "user": {
+    "Users": [],
+    "active": "SYS117$"
+  },
+  "os": {
+    "name": "SYS117",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS117",
+    "hostname": "SYS117",
+    "uptime": "2022/3/29 3:30:39",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "2.46GB",
+      "free": "13.50GB",
+      "percentage": 15.4
+    },
+    "network": {
+      "hostname": "SYS117",
+      "ip": "192.168.18.37",
+      "mac": "1c:1b:0d:7b:88:d2"
+    },
+    "disk": {
+      "total": "111.24GB",
+      "used": "65.95GB",
+      "free": "45.29GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "31.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622083de19547adf68219f3f"
+  },
+  "sys_name": "SYS002",
+  "last_run": "29/03/2022 13:16:51",
+  "user": {
+    "Users": [],
+    "active": "SYS002$"
+  },
+  "os": {
+    "name": "SYS002",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS002",
+    "hostname": "SYS002",
+    "uptime": "2022/3/29 3:33:43",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 94 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "2.26GB",
+      "free": "13.70GB",
+      "percentage": 14.1
+    },
+    "network": {
+      "hostname": "SYS002",
+      "ip": "192.168.19.192",
+      "mac": "40:8d:5c:c3:5e:73"
+    },
+    "disk": {
+      "total": "222.97GB",
+      "used": "63.83GB",
+      "free": "159.14GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1987.0MB",
+        "61.0MB",
+        "2048.0MB",
+        "nan%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622083ed19547adf68219fca"
+  },
+  "sys_name": "SYS201",
+  "last_run": "29/03/2022 13:27:39",
+  "user": {
+    "Users": [],
+    "active": "SYS201$"
+  },
+  "os": {
+    "name": "SYS201",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS201",
+    "hostname": "SYS201",
+    "uptime": "2022/3/29 3:30:40",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.52GB",
+      "free": "13.42GB",
+      "percentage": 15.8
+    },
+    "network": {
+      "hostname": "SYS201",
+      "ip": "192.168.18.63",
+      "mac": "e0:d5:5e:7b:bc:89"
+    },
+    "disk": {
+      "total": "222.95GB",
+      "used": "74.41GB",
+      "free": "148.54GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1939.0MB",
+        "109.0MB",
+        "2048.0MB",
+        "0.0%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622083fb19547adf6821a055"
+  },
+  "sys_name": "SYS236",
+  "last_run": "29/03/2022 13:16:49",
+  "user": {
+    "Users": [],
+    "active": "SYS236$"
+  },
+  "os": {
+    "name": "SYS236",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS236",
+    "hostname": "SYS236",
+    "uptime": "2022/3/29 3:30:36",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "5.47GB",
+      "free": "10.47GB",
+      "percentage": 34.3
+    },
+    "network": {
+      "hostname": "SYS236",
+      "ip": "192.168.18.40",
+      "mac": "b4:2e:99:53:26:13"
+    },
+    "disk": {
+      "total": "117.19GB",
+      "used": "101.08GB",
+      "free": "16.10GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220840819547adf6821a1ac"
+  },
+  "sys_name": "SYS248",
+  "last_run": "29/03/2022 13:16:59",
+  "user": {
+    "Users": [
+      "699.Seema"
+    ],
+    "active": "SYS248$"
+  },
+  "os": {
+    "name": "SYS248",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS248",
+    "hostname": "SYS248",
+    "uptime": "2022/3/29 3:30:34",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "10.12GB",
+      "free": "5.81GB",
+      "percentage": 63.5
+    },
+    "network": {
+      "hostname": "SYS248",
+      "ip": "192.168.18.41",
+      "mac": "18:c0:4d:b1:db:57"
+    },
+    "disk": {
+      "total": "232.28GB",
+      "used": "98.98GB",
+      "free": "133.31GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "276.0MB",
+        "1772.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220841819547adf6821aad3"
+  },
+  "sys_name": "Fg-16",
+  "last_run": "08/03/2022 03:30:23",
+  "user": {
+    "Users": [],
+    "active": "FG-16$"
+  },
+  "os": {
+    "name": "Fg-16",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "Fg-16",
+    "hostname": "Fg-16",
+    "uptime": "2022/3/7 14:38:58",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 58 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "2.30GB",
+      "free": "13.66GB",
+      "percentage": 14.4
+    },
+    "network": {
+      "hostname": "Fg-16",
+      "ip": "192.168.18.42",
+      "mac": "74:d4:35:dd:a8:e6"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "62.45GB",
+      "free": "48.72GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1963.0MB",
+        "85.0MB",
+        "2048.0MB",
+        "nan%",
+        "39.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220842919547adf6821ab75"
+  },
+  "sys_name": "SYS059",
+  "last_run": "29/03/2022 13:17:06",
+  "user": {
+    "Users": [
+      "Rajesh"
+    ],
+    "active": "SYS059$"
+  },
+  "os": {
+    "name": "SYS059",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS059",
+    "hostname": "SYS059",
+    "uptime": "2022/3/29 3:30:38",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.95GB",
+      "used": "5.41GB",
+      "free": "10.54GB",
+      "percentage": 33.9
+    },
+    "network": {
+      "hostname": "SYS059",
+      "ip": "192.168.18.43",
+      "mac": "1c:1b:0d:c1:df:ae"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "60.15GB",
+      "free": "51.02GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1108.0MB",
+        "940.0MB",
+        "2048.0MB",
+        "nan%",
+        "47.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220843b19547adf6821ac3c"
+  },
+  "sys_name": "FG-27",
+  "last_run": "29/03/2022 13:17:26",
+  "user": {
+    "Users": [
+      "Osaka",
+      "artist"
+    ],
+    "active": "FG-27$"
+  },
+  "os": {
+    "name": "FG-27",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "FG-27",
+    "hostname": "FG-27",
+    "uptime": "2022/3/29 3:30:47",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 58 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "11.95GB",
+      "free": "4.02GB",
+      "percentage": 74.8
+    },
+    "network": {
+      "hostname": "FG-27",
+      "ip": "192.168.18.44",
+      "mac": "fc:aa:14:42:4e:87"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "83.99GB",
+      "free": "27.18GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "100.0MB",
+        "1948.0MB",
+        "2048.0MB",
+        "nan%",
+        "53.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220844b19547adf6821acd4"
+  },
+  "sys_name": "FG24",
+  "last_run": "29/03/2022 20:37:25",
+  "user": {
+    "Users": [],
+    "active": "FG24$"
+  },
+  "os": {
+    "name": "FG24",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "FG24",
+    "hostname": "FG24",
+    "uptime": "2022/3/29 20:28:56",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "2.14GB",
+      "free": "13.79GB",
+      "percentage": 13.5
+    },
+    "network": {
+      "hostname": "FG24",
+      "ip": "192.168.18.45",
+      "mac": "fc:aa:14:d9:4c:a7"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "63.64GB",
+      "free": "47.53GB"
+    },
+    "gpu": [
+      [
+        "NVIDIA GeForce GT 730",
+        "1961.0MB",
+        "87.0MB",
+        "2048.0MB",
+        "nan%",
+        "0.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220845b19547adf6821ad87"
+  },
+  "sys_name": "SYS362",
+  "last_run": "29/03/2022 13:17:00",
+  "user": {
+    "Users": [
+      "artist_2"
+    ],
+    "active": "SYS362$"
+  },
+  "os": {
+    "name": "SYS362",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS362",
+    "hostname": "SYS362",
+    "uptime": "2022/3/29 3:30:37",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "8.93GB",
+      "free": "6.97GB",
+      "percentage": 56.2
+    },
+    "network": {
+      "hostname": "SYS362",
+      "ip": "192.168.18.46",
+      "mac": "d8:bb:c1:5e:bc:f9"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "173.74GB",
+      "free": "58.53GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "634.0MB",
+        "1414.0MB",
+        "2048.0MB",
+        "0.0%",
+        "31.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220846d19547adf6821ae65"
+  },
+  "sys_name": "FG-33",
+  "last_run": "29/03/2022 11:52:51",
+  "user": {
+    "Users": [
+      "681.Anuj"
+    ],
+    "active": "FG-33$"
+  },
+  "os": {
+    "name": "FG-33",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "FG-33",
+    "hostname": "FG-33",
+    "uptime": "2022/3/29 3:30:35",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "9.94GB",
+      "free": "6.00GB",
+      "percentage": 62.3
+    },
+    "network": {
+      "hostname": "FG-33",
+      "ip": "192.168.18.47",
+      "mac": "08:62:66:38:1b:4c"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "92.02GB",
+      "free": "19.15GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1309.0MB",
+        "739.0MB",
+        "2048.0MB",
+        "nan%",
+        "33.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220847e19547adf6821af22"
+  },
+  "sys_name": "SYS020",
+  "last_run": "04/03/2022 03:30:57",
+  "user": {
+    "Users": [],
+    "active": "SYS020$"
+  },
+  "os": {
+    "name": "SYS020",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS020",
+    "hostname": "SYS020",
+    "uptime": "2022/3/3 3:31:6",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "2.74GB",
+      "free": "13.21GB",
+      "percentage": 17.2
+    },
+    "network": {
+      "hostname": "SYS020",
+      "ip": "192.168.18.48",
+      "mac": "e0:d5:5e:70:c1:de"
+    },
+    "disk": {
+      "total": "111.18GB",
+      "used": "80.84GB",
+      "free": "30.34GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1936.0MB",
+        "112.0MB",
+        "2048.0MB",
+        "1.0%",
+        "33.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220849019547adf6821b93a"
+  },
+  "sys_name": "SYS016",
+  "last_run": "29/03/2022 20:37:27",
+  "user": {
+    "Users": [
+      "anil"
+    ],
+    "active": "SYS016$"
+  },
+  "os": {
+    "name": "SYS016",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS016",
+    "hostname": "SYS016",
+    "uptime": "2022/3/29 16:12:15",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "3.91GB",
+      "free": "11.99GB",
+      "percentage": 24.6
+    },
+    "network": {
+      "hostname": "SYS016",
+      "ip": "192.168.18.49",
+      "mac": "40:8d:5c:35:ea:aa"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "86.64GB",
+      "free": "24.53GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1905.0MB",
+        "143.0MB",
+        "2048.0MB",
+        "nan%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622084a719547adf6821ba58"
+  },
+  "sys_name": "SYS015",
+  "last_run": "29/03/2022 13:16:43",
+  "user": {
+    "Users": [
+      "Artist"
+    ],
+    "active": "SYS015$"
+  },
+  "os": {
+    "name": "SYS015",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS015",
+    "hostname": "SYS015",
+    "uptime": "2022/3/29 3:30:54",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 94 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.95GB",
+      "used": "10.34GB",
+      "free": "5.61GB",
+      "percentage": 64.8
+    },
+    "network": {
+      "hostname": "SYS015",
+      "ip": "192.168.18.50",
+      "mac": "40:8d:5c:9d:40:c9"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "76.03GB",
+      "free": "35.14GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "142.0MB",
+        "1906.0MB",
+        "2048.0MB",
+        "nan%",
+        "39.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622084b619547adf6821baff"
+  },
+  "sys_name": "SYS101",
+  "last_run": "29/03/2022 13:17:46",
+  "user": {
+    "Users": [],
+    "active": "SYS101$"
+  },
+  "os": {
+    "name": "SYS101",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS101",
+    "hostname": "SYS101",
+    "uptime": "2022/3/29 3:30:39",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "2.24GB",
+      "free": "13.72GB",
+      "percentage": 14
+    },
+    "network": {
+      "hostname": "SYS101",
+      "ip": "192.168.18.54",
+      "mac": "1c:1b:0d:fe:c7:f3"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "73.15GB",
+      "free": "38.02GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622084c719547adf6821bbce"
+  },
+  "sys_name": "SYS028",
+  "last_run": "29/03/2022 13:26:41",
+  "user": {
+    "Users": [],
+    "active": "SYS028$"
+  },
+  "os": {
+    "name": "SYS028",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS028",
+    "hostname": "SYS028",
+    "uptime": "2022/3/29 3:30:37",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.87GB",
+      "used": "2.35GB",
+      "free": "13.53GB",
+      "percentage": 14.8
+    },
+    "network": {
+      "hostname": "SYS028",
+      "ip": "192.168.18.55",
+      "mac": "40:8d:5c:3b:c4:cc"
+    },
+    "disk": {
+      "total": "111.30GB",
+      "used": "56.18GB",
+      "free": "55.12GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1987.0MB",
+        "61.0MB",
+        "2048.0MB",
+        "nan%",
+        "33.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622084d719547adf6821bc92"
+  },
+  "sys_name": "SYS228",
+  "last_run": "29/03/2022 13:26:52",
+  "user": {
+    "Users": [
+      "Sarit136"
+    ],
+    "active": "SYS228$"
+  },
+  "os": {
+    "name": "SYS228",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS228",
+    "hostname": "SYS228",
+    "uptime": "2022/3/29 3:30:44",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "13.96GB",
+      "free": "1.97GB",
+      "percentage": 87.6
+    },
+    "network": {
+      "hostname": "SYS228",
+      "ip": "127.0.0.1",
+      "mac": "b4:2e:99:53:26:a1"
+    },
+    "disk": {
+      "total": "99.99GB",
+      "used": "62.38GB",
+      "free": "37.60GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "161.0MB",
+        "1887.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622084e619547adf6821bd65"
+  },
+  "sys_name": "SYS212",
+  "last_run": "29/03/2022 13:27:33",
+  "user": {
+    "Users": [],
+    "active": "SYS212$"
+  },
+  "os": {
+    "name": "SYS212",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS212",
+    "hostname": "SYS212",
+    "uptime": "2022/3/29 3:30:37",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "2.30GB",
+      "free": "13.63GB",
+      "percentage": 14.4
+    },
+    "network": {
+      "hostname": "SYS212",
+      "ip": "192.168.18.59",
+      "mac": "e0:d5:5e:f9:f9:12"
+    },
+    "disk": {
+      "total": "222.95GB",
+      "used": "86.65GB",
+      "free": "136.30GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622084f619547adf6821be30"
+  },
+  "sys_name": "SYS354",
+  "last_run": "29/03/2022 13:27:10",
+  "user": {
+    "Users": [],
+    "active": "SYS354$"
+  },
+  "os": {
+    "name": "SYS354",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS354",
+    "hostname": "SYS354",
+    "uptime": "2022/3/29 3:30:42",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.59GB",
+      "free": "13.31GB",
+      "percentage": 16.3
+    },
+    "network": {
+      "hostname": "SYS354",
+      "ip": "192.168.18.61",
+      "mac": "d8:bb:c1:5e:bc:ee"
+    },
+    "disk": {
+      "total": "116.57GB",
+      "used": "101.99GB",
+      "free": "14.57GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220851019547adf6821c913"
+  },
+  "sys_name": "SYS055",
+  "last_run": "29/03/2022 20:37:22",
+  "user": {
+    "Users": [
+      "255.Gurpreet"
+    ],
+    "active": "SYS055$"
+  },
+  "os": {
+    "name": "SYS055",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS055",
+    "hostname": "SYS055",
+    "uptime": "2022/3/29 3:30:46",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "7.95GB",
+      "used": "6.30GB",
+      "free": "1.65GB",
+      "percentage": 79.3
+    },
+    "network": {
+      "hostname": "SYS055",
+      "ip": "192.168.18.64",
+      "mac": "1c:1b:0d:c1:df:ac"
+    },
+    "disk": {
+      "total": "110.72GB",
+      "used": "65.29GB",
+      "free": "45.44GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1083.0MB",
+        "965.0MB",
+        "2048.0MB",
+        "nan%",
+        "34.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220851f19547adf6821c9da"
+  },
+  "sys_name": "SYS216",
+  "last_run": "29/03/2022 13:24:57",
+  "user": {
+    "Users": [],
+    "active": "SYS216$"
+  },
+  "os": {
+    "name": "SYS216",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS216",
+    "hostname": "SYS216",
+    "uptime": "2022/3/29 3:30:57",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.62GB",
+      "free": "13.31GB",
+      "percentage": 16.5
+    },
+    "network": {
+      "hostname": "SYS216",
+      "ip": "192.168.18.65",
+      "mac": "e0:d5:5e:f9:f9:17"
+    },
+    "disk": {
+      "total": "117.19GB",
+      "used": "99.18GB",
+      "free": "18.01GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "29.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220852c19547adf6821ca7e"
+  },
+  "sys_name": "SYS364",
+  "last_run": "29/03/2022 13:26:55",
+  "user": {
+    "Users": [
+      "himanshu"
+    ],
+    "active": "SYS364$"
+  },
+  "os": {
+    "name": "SYS364",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS364",
+    "hostname": "SYS364",
+    "uptime": "2022/3/29 3:30:47",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "8.04GB",
+      "free": "7.86GB",
+      "percentage": 50.6
+    },
+    "network": {
+      "hostname": "SYS364",
+      "ip": "127.0.0.1",
+      "mac": "d8:bb:c1:5e:bc:ca"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "114.38GB",
+      "free": "117.89GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "252.0MB",
+        "1796.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220853719547adf6821cb24"
+  },
+  "sys_name": "SYS360",
+  "last_run": "29/03/2022 13:27:01",
+  "user": {
+    "Users": [
+      "artist-1"
+    ],
+    "active": "SYS360$"
+  },
+  "os": {
+    "name": "SYS360",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS360",
+    "hostname": "SYS360",
+    "uptime": "2022/3/29 3:30:57",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "4.47GB",
+      "free": "11.43GB",
+      "percentage": 28.1
+    },
+    "network": {
+      "hostname": "SYS360",
+      "ip": "127.0.0.1",
+      "mac": "d8:bb:c1:3f:8a:de"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "88.80GB",
+      "free": "143.47GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1781.0MB",
+        "267.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220854319547adf6821cbd0"
+  },
+  "sys_name": "SYS359",
+  "last_run": "29/03/2022 20:37:24",
+  "user": {
+    "Users": [
+      "817.Harjinder"
+    ],
+    "active": "SYS359$"
+  },
+  "os": {
+    "name": "SYS359",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS359",
+    "hostname": "SYS359",
+    "uptime": "2022/3/29 3:30:44",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "4.40GB",
+      "free": "11.50GB",
+      "percentage": 27.7
+    },
+    "network": {
+      "hostname": "SYS359",
+      "ip": "192.168.18.68",
+      "mac": "d8:bb:c1:5e:bc:f5"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "83.58GB",
+      "free": "148.68GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1858.0MB",
+        "190.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220855019547adf6821cc93"
+  },
+  "sys_name": "SYS218",
+  "last_run": "29/03/2022 20:37:19",
+  "user": {
+    "Users": [],
+    "active": "SYS218$"
+  },
+  "os": {
+    "name": "SYS218",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS218",
+    "hostname": "SYS218",
+    "uptime": "2022/3/29 3:30:44",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "1.54GB",
+      "free": "14.40GB",
+      "percentage": 9.7
+    },
+    "network": {
+      "hostname": "SYS218",
+      "ip": "192.168.18.69",
+      "mac": "e0:d5:5e:f9:f9:86"
+    },
+    "disk": {
+      "total": "222.97GB",
+      "used": "110.38GB",
+      "free": "112.59GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "31.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220855e19547adf6821cd78"
+  },
+  "sys_name": "SYS223",
+  "last_run": "29/03/2022 13:26:41",
+  "user": {
+    "Users": [
+      "Artist 1"
+    ],
+    "active": "SYS223$"
+  },
+  "os": {
+    "name": "SYS223",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS223",
+    "hostname": "SYS223",
+    "uptime": "2022/3/29 3:30:43",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "10.31GB",
+      "free": "5.62GB",
+      "percentage": 64.7
+    },
+    "network": {
+      "hostname": "SYS223",
+      "ip": "192.168.18.70",
+      "mac": "b4:2e:99:51:bc:df"
+    },
+    "disk": {
+      "total": "222.52GB",
+      "used": "188.89GB",
+      "free": "33.63GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "291.0MB",
+        "1757.0MB",
+        "2048.0MB",
+        "6.0%",
+        "33.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220857219547adf6821d38f"
+  },
+  "sys_name": "SYS206",
+  "last_run": "29/03/2022 13:26:37",
+  "user": {
+    "Users": [
+      "627.Sagar"
+    ],
+    "active": "SYS206$"
+  },
+  "os": {
+    "name": "SYS206",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS206",
+    "hostname": "SYS206",
+    "uptime": "2022/3/29 3:30:50",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "11.21GB",
+      "free": "4.73GB",
+      "percentage": 70.3
+    },
+    "network": {
+      "hostname": "SYS206",
+      "ip": "192.168.18.71",
+      "mac": "e0:d5:5e:7b:bc:93"
+    },
+    "disk": {
+      "total": "222.95GB",
+      "used": "148.36GB",
+      "free": "74.59GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "52.0MB",
+        "1996.0MB",
+        "2048.0MB",
+        "0.0%",
+        "37.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220858119547adf6821d91a"
+  },
+  "sys_name": "SYS208",
+  "last_run": "29/03/2022 13:27:06",
+  "user": {
+    "Users": [
+      "Artist-1"
+    ],
+    "active": "SYS208$"
+  },
+  "os": {
+    "name": "SYS208",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS208",
+    "hostname": "SYS208",
+    "uptime": "2022/3/29 3:30:43",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.88GB",
+      "used": "7.16GB",
+      "free": "8.72GB",
+      "percentage": 45.1
+    },
+    "network": {
+      "hostname": "SYS208",
+      "ip": "192.168.18.72",
+      "mac": "00:e0:4c:36:07:ce"
+    },
+    "disk": {
+      "total": "222.97GB",
+      "used": "135.82GB",
+      "free": "87.14GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1188.0MB",
+        "860.0MB",
+        "2048.0MB",
+        "0.0%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220859219547adf6821da1e"
+  },
+  "sys_name": "SYS050",
+  "last_run": "29/03/2022 20:37:20",
+  "user": {
+    "Users": [],
+    "active": "SYS050$"
+  },
+  "os": {
+    "name": "SYS050",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS050",
+    "hostname": "SYS050",
+    "uptime": "2022/3/29 3:30:47",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.95GB",
+      "used": "2.72GB",
+      "free": "13.24GB",
+      "percentage": 17
+    },
+    "network": {
+      "hostname": "SYS050",
+      "ip": "192.168.18.73",
+      "mac": "1c:1b:0d:c1:e8:05"
+    },
+    "disk": {
+      "total": "111.23GB",
+      "used": "90.31GB",
+      "free": "20.92GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1961.0MB",
+        "87.0MB",
+        "2048.0MB",
+        "nan%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622085a819547adf6821db62"
+  },
+  "sys_name": "SYS034",
+  "last_run": "29/03/2022 13:17:29",
+  "user": {
+    "Users": [],
+    "active": "SYS034$"
+  },
+  "os": {
+    "name": "SYS034",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS034",
+    "hostname": "SYS034",
+    "uptime": "2022/3/29 3:30:50",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.87GB",
+      "used": "2.31GB",
+      "free": "13.57GB",
+      "percentage": 14.5
+    },
+    "network": {
+      "hostname": "SYS034",
+      "ip": "192.168.18.75",
+      "mac": "fc:aa:14:a6:27:83"
+    },
+    "disk": {
+      "total": "111.19GB",
+      "used": "97.18GB",
+      "free": "14.02GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1987.0MB",
+        "61.0MB",
+        "2048.0MB",
+        "nan%",
+        "38.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622085b719547adf6821dc47"
+  },
+  "sys_name": "SYS110",
+  "last_run": "29/03/2022 00:47:16",
+  "user": {
+    "Users": [],
+    "active": "SYS110$"
+  },
+  "os": {
+    "name": "SYS110",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS110",
+    "hostname": "SYS110",
+    "uptime": "2022/3/28 15:0:49",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.95GB",
+      "used": "2.28GB",
+      "free": "13.68GB",
+      "percentage": 14.3
+    },
+    "network": {
+      "hostname": "SYS110",
+      "ip": "192.168.18.76",
+      "mac": "1c:1b:0d:7b:89:1a"
+    },
+    "disk": {
+      "total": "222.96GB",
+      "used": "68.41GB",
+      "free": "154.56GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622085c619547adf6821dd47"
+  },
+  "sys_name": "SYS224",
+  "last_run": "29/03/2022 20:37:23",
+  "user": {
+    "Users": [
+      "Artist_2"
+    ],
+    "active": "SYS224$"
+  },
+  "os": {
+    "name": "SYS224",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS224",
+    "hostname": "SYS224",
+    "uptime": "2022/3/29 3:30:47",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "9.97GB",
+      "free": "5.96GB",
+      "percentage": 62.6
+    },
+    "network": {
+      "hostname": "SYS224",
+      "ip": "192.168.18.77",
+      "mac": "b4:2e:99:51:bd:13"
+    },
+    "disk": {
+      "total": "105.78GB",
+      "used": "92.84GB",
+      "free": "12.94GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "777.0MB",
+        "1271.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622085d519547adf6821de58"
+  },
+  "sys_name": "SYS203",
+  "last_run": "29/03/2022 13:17:54",
+  "user": {
+    "Users": [],
+    "active": "SYS203$"
+  },
+  "os": {
+    "name": "SYS203",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS203",
+    "hostname": "SYS203",
+    "uptime": "2022/3/29 3:30:47",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.36GB",
+      "free": "13.58GB",
+      "percentage": 14.8
+    },
+    "network": {
+      "hostname": "SYS203",
+      "ip": "192.168.18.78",
+      "mac": "f8:e4:3b:0e:36:8d"
+    },
+    "disk": {
+      "total": "222.44GB",
+      "used": "123.09GB",
+      "free": "99.34GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "31.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622085e519547adf6821df70"
+  },
+  "sys_name": "FG-44",
+  "last_run": "29/03/2022 13:26:54",
+  "user": {
+    "Users": [],
+    "active": "FG-44$"
+  },
+  "os": {
+    "name": "FG-44",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "FG-44",
+    "hostname": "FG-44",
+    "uptime": "2022/3/29 7:29:4",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "7.87GB",
+      "used": "2.34GB",
+      "free": "5.54GB",
+      "percentage": 29.7
+    },
+    "network": {
+      "hostname": "FG-44",
+      "ip": "127.0.0.1",
+      "mac": "40:8d:5c:3b:a4:37"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "81.85GB",
+      "free": "29.32GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1987.0MB",
+        "61.0MB",
+        "2048.0MB",
+        "nan%",
+        "38.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622085f319547adf6821e861"
+  },
+  "sys_name": "SYS234",
+  "last_run": "29/03/2022 13:17:42",
+  "user": {
+    "Users": [],
+    "active": "SYS234$"
+  },
+  "os": {
+    "name": "SYS234",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS234",
+    "hostname": "SYS234",
+    "uptime": "2022/3/29 7:15:2",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "2.35GB",
+      "free": "13.59GB",
+      "percentage": 14.7
+    },
+    "network": {
+      "hostname": "SYS234",
+      "ip": "192.168.18.80",
+      "mac": "b4:2e:99:53:27:f6"
+    },
+    "disk": {
+      "total": "105.79GB",
+      "used": "69.18GB",
+      "free": "36.61GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "27.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622085ff19547adf6821ea9f"
+  },
+  "sys_name": "SYS400",
+  "last_run": "29/03/2022 13:35:58",
+  "user": {
+    "Users": [
+      "282Shubham"
+    ],
+    "active": "SYS400$"
+  },
+  "os": {
+    "name": "SYS400",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS400",
+    "hostname": "SYS400",
+    "uptime": "2022/3/29 13:35:27",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 5, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.65GB",
+      "free": "13.25GB",
+      "percentage": 16.7
+    },
+    "network": {
+      "hostname": "SYS400",
+      "ip": "192.168.19.194",
+      "mac": "d8:bb:c1:5e:c1:6a"
+    },
+    "disk": {
+      "total": "237.85GB",
+      "used": "193.70GB",
+      "free": "44.16GB"
+    },
+    "gpu": [
+      [
+        "GeForce GTX 1650",
+        "3895.0MB",
+        "201.0MB",
+        "4096.0MB",
+        "3.0%",
+        "35.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220861319547adf6821ec02"
+  },
+  "sys_name": "SYS058",
+  "last_run": "29/03/2022 13:17:33",
+  "user": {
+    "Users": [],
+    "active": "SYS058$"
+  },
+  "os": {
+    "name": "SYS058",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS058",
+    "hostname": "SYS058",
+    "uptime": "2022/3/29 3:30:53",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.95GB",
+      "used": "2.43GB",
+      "free": "13.52GB",
+      "percentage": 15.3
+    },
+    "network": {
+      "hostname": "SYS058",
+      "ip": "192.168.18.82",
+      "mac": "18:c0:4d:13:87:f7"
+    },
+    "disk": {
+      "total": "111.19GB",
+      "used": "78.61GB",
+      "free": "32.57GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1987.0MB",
+        "61.0MB",
+        "2048.0MB",
+        "nan%",
+        "35.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220862319547adf6821ed20"
+  },
+  "sys_name": "SYS244",
+  "last_run": "29/03/2022 13:26:36",
+  "user": {
+    "Users": [],
+    "active": "SYS244$"
+  },
+  "os": {
+    "name": "SYS244",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS244",
+    "hostname": "SYS244",
+    "uptime": "2022/3/29 3:30:52",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.38GB",
+      "free": "13.56GB",
+      "percentage": 14.9
+    },
+    "network": {
+      "hostname": "SYS244",
+      "ip": "192.168.18.83",
+      "mac": "b4:2e:99:53:26:21"
+    },
+    "disk": {
+      "total": "105.27GB",
+      "used": "69.13GB",
+      "free": "36.14GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1936.0MB",
+        "112.0MB",
+        "2048.0MB",
+        "0.0%",
+        "41.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220863019547adf6821ee00"
+  },
+  "sys_name": "SYS375",
+  "last_run": "29/03/2022 13:17:30",
+  "user": {
+    "Users": [],
+    "active": "SYS375$"
+  },
+  "os": {
+    "name": "SYS375",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS375",
+    "hostname": "SYS375",
+    "uptime": "2022/3/29 3:30:54",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.57GB",
+      "free": "13.33GB",
+      "percentage": 16.2
+    },
+    "network": {
+      "hostname": "SYS375",
+      "ip": "192.168.18.84",
+      "mac": "d8:bb:c1:3f:8a:e8"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "144.50GB",
+      "free": "87.77GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220863d19547adf6821eefb"
+  },
+  "sys_name": "SYS204",
+  "last_run": "29/03/2022 13:16:56",
+  "user": {
+    "Users": [
+      "1436.Gajender"
+    ],
+    "active": "SYS204$"
+  },
+  "os": {
+    "name": "SYS204",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS204",
+    "hostname": "SYS204",
+    "uptime": "2022/3/29 3:30:54",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "11.59GB",
+      "free": "4.35GB",
+      "percentage": 72.7
+    },
+    "network": {
+      "hostname": "SYS204",
+      "ip": "192.168.18.86",
+      "mac": "e0:d5:5e:7b:bc:5e"
+    },
+    "disk": {
+      "total": "222.95GB",
+      "used": "120.94GB",
+      "free": "102.01GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1194.0MB",
+        "854.0MB",
+        "2048.0MB",
+        "0.0%",
+        "36.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220864b19547adf6821f02e"
+  },
+  "sys_name": "SYS217",
+  "last_run": "15/03/2022 06:56:57",
+  "user": {
+    "Users": [],
+    "active": "SYS217$"
+  },
+  "os": {
+    "name": "SYS217",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS217",
+    "hostname": "SYS217",
+    "uptime": "2022/3/15 3:30:54",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "2.33GB",
+      "free": "13.61GB",
+      "percentage": 14.6
+    },
+    "network": {
+      "hostname": "SYS217",
+      "ip": "192.168.18.87",
+      "mac": "e0:d5:5e:f9:f8:ee"
+    },
+    "disk": {
+      "total": "222.95GB",
+      "used": "96.51GB",
+      "free": "126.44GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "37.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220865c19547adf6821f161"
+  },
+  "sys_name": "SYS357",
+  "last_run": "29/03/2022 20:37:28",
+  "user": {
+    "Users": [],
+    "active": "SYS357$"
+  },
+  "os": {
+    "name": "SYS357",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS357",
+    "hostname": "SYS357",
+    "uptime": "2022/3/29 19:39:44",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.57GB",
+      "free": "13.33GB",
+      "percentage": 16.2
+    },
+    "network": {
+      "hostname": "SYS357",
+      "ip": "192.168.18.88",
+      "mac": "d8:bb:c1:5e:bc:c1"
+    },
+    "disk": {
+      "total": "126.33GB",
+      "used": "88.52GB",
+      "free": "37.81GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "29.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220867a19547adf6821fd1f"
+  },
+  "sys_name": "FG-39",
+  "last_run": "29/03/2022 13:17:02",
+  "user": {
+    "Users": [],
+    "active": "FG-39$"
+  },
+  "os": {
+    "name": "FG-39",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "FG-39",
+    "hostname": "FG-39",
+    "uptime": "2022/3/29 3:33:50",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "7.87GB",
+      "used": "2.23GB",
+      "free": "5.64GB",
+      "percentage": 28.3
+    },
+    "network": {
+      "hostname": "FG-39",
+      "ip": "192.168.19.211",
+      "mac": "40:8d:5c:3b:a1:ce"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "89.81GB",
+      "free": "21.36GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1987.0MB",
+        "61.0MB",
+        "2048.0MB",
+        "nan%",
+        "26.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220868919547adf6821fe45"
+  },
+  "sys_name": "SYS247",
+  "last_run": "04/03/2022 03:33:11",
+  "user": {
+    "Users": [],
+    "active": "SYS247$"
+  },
+  "os": {
+    "name": "SYS247",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS247",
+    "hostname": "SYS247",
+    "uptime": "2022/3/3 3:33:32",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "2.84GB",
+      "free": "13.09GB",
+      "percentage": 17.8
+    },
+    "network": {
+      "hostname": "SYS247",
+      "ip": "192.168.18.90",
+      "mac": "18:c0:4d:b1:d9:46"
+    },
+    "disk": {
+      "total": "231.77GB",
+      "used": "135.20GB",
+      "free": "96.57GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1936.0MB",
+        "112.0MB",
+        "2048.0MB",
+        "0.0%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220869919547adf6821ff7d"
+  },
+  "sys_name": "FG26",
+  "last_run": "29/03/2022 13:17:03",
+  "user": {
+    "Users": [
+      "artist"
+    ],
+    "active": "FG26$"
+  },
+  "os": {
+    "name": "FG26",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "FG26",
+    "hostname": "FG26",
+    "uptime": "2022/3/29 3:33:47",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "11.87GB",
+      "used": "7.30GB",
+      "free": "4.58GB",
+      "percentage": 61.5
+    },
+    "network": {
+      "hostname": "FG26",
+      "ip": "192.168.19.203",
+      "mac": "fc:aa:14:a6:27:1d"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "95.05GB",
+      "free": "16.12GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "562.0MB",
+        "1486.0MB",
+        "2048.0MB",
+        "nan%",
+        "41.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622086a719547adf6822009e"
+  },
+  "sys_name": "SYS215",
+  "last_run": "29/03/2022 13:16:47",
+  "user": {
+    "Users": [],
+    "active": "SYS215$"
+  },
+  "os": {
+    "name": "SYS215",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS215",
+    "hostname": "SYS215",
+    "uptime": "2022/3/29 3:33:41",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "2.43GB",
+      "free": "13.51GB",
+      "percentage": 15.2
+    },
+    "network": {
+      "hostname": "SYS215",
+      "ip": "192.168.19.196",
+      "mac": "e0:d5:5e:f9:f8:e8"
+    },
+    "disk": {
+      "total": "99.07GB",
+      "used": "56.93GB",
+      "free": "42.15GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "27.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622086b519547adf682201bc"
+  },
+  "sys_name": "SYS233",
+  "last_run": "29/03/2022 13:16:59",
+  "user": {
+    "Users": [],
+    "active": "SYS233$"
+  },
+  "os": {
+    "name": "SYS233",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS233",
+    "hostname": "SYS233",
+    "uptime": "2022/3/29 3:34:5",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "2.43GB",
+      "free": "13.50GB",
+      "percentage": 15.3
+    },
+    "network": {
+      "hostname": "SYS233",
+      "ip": "192.168.19.199",
+      "mac": "b4:2e:99:53:26:a5"
+    },
+    "disk": {
+      "total": "222.98GB",
+      "used": "97.23GB",
+      "free": "125.75GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622086c419547adf6822030d"
+  },
+  "sys_name": "Video-i7",
+  "last_run": "29/03/2022 13:27:10",
+  "user": {
+    "Users": [
+      "Sankalp"
+    ],
+    "active": "VIDEO-I7$"
+  },
+  "os": {
+    "name": "Video-i7",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "Video-i7",
+    "hostname": "Video-i7",
+    "uptime": "2022/3/29 3:31:23",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 58 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 8,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.95GB",
+      "used": "9.16GB",
+      "free": "6.78GB",
+      "percentage": 57.5
+    },
+    "network": {
+      "hostname": "Video-i7",
+      "ip": "127.0.0.1",
+      "mac": "a0:48:1c:80:3d:1e"
+    },
+    "disk": {
+      "total": "102.39GB",
+      "used": "98.62GB",
+      "free": "3.78GB"
+    },
+    "gpu": [
+      [
+        "GeForce GTX 650",
+        "72.0MB",
+        "1976.0MB",
+        "2048.0MB",
+        "nan%",
+        "31.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622086d019547adf682203fe"
+  },
+  "sys_name": "SYS334",
+  "last_run": "29/03/2022 13:26:27",
+  "user": {
+    "Users": [
+      "Artist_1",
+      "rishav494"
+    ],
+    "active": "SYS334$"
+  },
+  "os": {
+    "name": "SYS334",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS334",
+    "hostname": "SYS334",
+    "uptime": "2022/3/29 3:31:6",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "13.77GB",
+      "free": "2.17GB",
+      "percentage": 86.4
+    },
+    "network": {
+      "hostname": "SYS334",
+      "ip": "192.168.18.98",
+      "mac": "d8:bb:c1:10:46:e3"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "118.17GB",
+      "free": "114.09GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "755.0MB",
+        "1293.0MB",
+        "2048.0MB",
+        "0.0%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622086dc19547adf68220a9e"
+  },
+  "sys_name": "SYS391",
+  "last_run": "29/03/2022 13:26:52",
+  "user": {
+    "Users": [],
+    "active": "SYS391$"
+  },
+  "os": {
+    "name": "SYS391",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS391",
+    "hostname": "SYS391",
+    "uptime": "2022/3/29 3:30:57",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.94GB",
+      "free": "12.96GB",
+      "percentage": 18.5
+    },
+    "network": {
+      "hostname": "SYS391",
+      "ip": "192.168.18.99",
+      "mac": "d8:bb:c1:3f:8a:74"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "182.36GB",
+      "free": "49.90GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "29.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622086e819547adf68220f8e"
+  },
+  "sys_name": "SYS390",
+  "last_run": "29/03/2022 13:26:52",
+  "user": {
+    "Users": [],
+    "active": "SYS390$"
+  },
+  "os": {
+    "name": "SYS390",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS390",
+    "hostname": "SYS390",
+    "uptime": "2022/3/29 3:30:43",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.52GB",
+      "free": "13.38GB",
+      "percentage": 15.9
+    },
+    "network": {
+      "hostname": "SYS390",
+      "ip": "192.168.18.67",
+      "mac": "d8:bb:c1:3f:8a:a7"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "135.25GB",
+      "free": "97.01GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622086f719547adf682210d3"
+  },
+  "sys_name": "SYS227",
+  "last_run": "29/03/2022 13:27:09",
+  "user": {
+    "Users": [
+      "artist"
+    ],
+    "active": "SYS227$"
+  },
+  "os": {
+    "name": "SYS227",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS227",
+    "hostname": "SYS227",
+    "uptime": "2022/3/29 3:31:7",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "4.99GB",
+      "free": "10.94GB",
+      "percentage": 31.3
+    },
+    "network": {
+      "hostname": "SYS227",
+      "ip": "192.168.18.101",
+      "mac": "b4:2e:99:53:26:a6"
+    },
+    "disk": {
+      "total": "99.89GB",
+      "used": "81.94GB",
+      "free": "17.95GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1775.0MB",
+        "273.0MB",
+        "2048.0MB",
+        "0.0%",
+        "27.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220870519547adf682211ff"
+  },
+  "sys_name": "SYS030",
+  "last_run": "29/03/2022 13:26:50",
+  "user": {
+    "Users": [
+      "artist"
+    ],
+    "active": "SYS030$"
+  },
+  "os": {
+    "name": "SYS030",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS030",
+    "hostname": "SYS030",
+    "uptime": "2022/3/29 3:31:6",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "7.82GB",
+      "free": "8.14GB",
+      "percentage": 49
+    },
+    "network": {
+      "hostname": "SYS030",
+      "ip": "192.168.18.102",
+      "mac": "e0:d5:5e:02:d9:0e"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "68.58GB",
+      "free": "42.59GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1185.0MB",
+        "863.0MB",
+        "2048.0MB",
+        "nan%",
+        "33.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220871119547adf682212ff"
+  },
+  "sys_name": "SYS380",
+  "last_run": "29/03/2022 20:37:23",
+  "user": {
+    "Users": [
+      "artist",
+      "LT"
+    ],
+    "active": "SYS380$"
+  },
+  "os": {
+    "name": "SYS380",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS380",
+    "hostname": "SYS380",
+    "uptime": "2022/3/29 3:31:3",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "7.20GB",
+      "free": "8.70GB",
+      "percentage": 45.3
+    },
+    "network": {
+      "hostname": "SYS380",
+      "ip": "192.168.18.103",
+      "mac": "d8:bb:c1:5e:bc:be"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "111.41GB",
+      "free": "120.86GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1542.0MB",
+        "506.0MB",
+        "2048.0MB",
+        "0.0%",
+        "27.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220871e19547adf6822141c"
+  },
+  "sys_name": "SYS386",
+  "last_run": "29/03/2022 13:27:11",
+  "user": {
+    "Users": [
+      "artist"
+    ],
+    "active": "SYS386$"
+  },
+  "os": {
+    "name": "SYS386",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS386",
+    "hostname": "SYS386",
+    "uptime": "2022/3/29 3:31:6",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "8.17GB",
+      "free": "7.73GB",
+      "percentage": 51.4
+    },
+    "network": {
+      "hostname": "SYS386",
+      "ip": "127.0.0.1",
+      "mac": "d8:bb:c1:3f:8a:76"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "159.97GB",
+      "free": "72.29GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "102.0MB",
+        "1946.0MB",
+        "2048.0MB",
+        "0.0%",
+        "31.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220872a19547adf68221545"
+  },
+  "sys_name": "SYS369",
+  "last_run": "29/03/2022 13:27:01",
+  "user": {
+    "Users": [],
+    "active": "SYS369$"
+  },
+  "os": {
+    "name": "SYS369",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS369",
+    "hostname": "SYS369",
+    "uptime": "2022/3/29 3:30:59",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.69GB",
+      "free": "13.21GB",
+      "percentage": 16.9
+    },
+    "network": {
+      "hostname": "SYS369",
+      "ip": "127.0.0.1",
+      "mac": "d8:bb:c1:5e:bc:c0"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "103.49GB",
+      "free": "128.78GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1936.0MB",
+        "112.0MB",
+        "2048.0MB",
+        "0.0%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220873919547adf68221698"
+  },
+  "sys_name": "SYS054",
+  "last_run": "29/03/2022 13:25:09",
+  "user": {
+    "Users": [],
+    "active": "SYS054$"
+  },
+  "os": {
+    "name": "SYS054",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS054",
+    "hostname": "SYS054",
+    "uptime": "2022/3/29 3:31:2",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "7.95GB",
+      "used": "2.25GB",
+      "free": "5.70GB",
+      "percentage": 28.3
+    },
+    "network": {
+      "hostname": "SYS054",
+      "ip": "192.168.18.106",
+      "mac": "1c:1b:0d:c1:e7:bc"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "62.18GB",
+      "free": "48.98GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1963.0MB",
+        "85.0MB",
+        "2048.0MB",
+        "nan%",
+        "35.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220874a19547adf6822183c"
+  },
+  "sys_name": "SYS235",
+  "last_run": "29/03/2022 13:27:06",
+  "user": {
+    "Users": [
+      "Divya645"
+    ],
+    "active": "SYS235$"
+  },
+  "os": {
+    "name": "SYS235",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS235",
+    "hostname": "SYS235",
+    "uptime": "2022/3/29 3:31:14",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "9.87GB",
+      "free": "6.07GB",
+      "percentage": 61.9
+    },
+    "network": {
+      "hostname": "SYS235",
+      "ip": "192.168.18.107",
+      "mac": "b4:2e:99:53:27:2b"
+    },
+    "disk": {
+      "total": "99.07GB",
+      "used": "63.35GB",
+      "free": "35.72GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "297.0MB",
+        "1751.0MB",
+        "2048.0MB",
+        "0.0%",
+        "29.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220875719547adf68221f17"
+  },
+  "sys_name": "SYS396",
+  "last_run": "29/03/2022 13:27:13",
+  "user": {
+    "Users": [
+      "artist"
+    ],
+    "active": "SYS396$"
+  },
+  "os": {
+    "name": "SYS396",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS396",
+    "hostname": "SYS396",
+    "uptime": "2022/3/29 3:31:2",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "10.08GB",
+      "free": "5.82GB",
+      "percentage": 63.4
+    },
+    "network": {
+      "hostname": "SYS396",
+      "ip": "127.0.0.1",
+      "mac": "d8:bb:c1:3f:8a:6b"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "104.96GB",
+      "free": "127.31GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "873.0MB",
+        "1175.0MB",
+        "2048.0MB",
+        "1.0%",
+        "38.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220876419547adf68222422"
+  },
+  "sys_name": "SYS056",
+  "last_run": "29/03/2022 13:27:16",
+  "user": {
+    "Users": [
+      "Artist"
+    ],
+    "active": "SYS056$"
+  },
+  "os": {
+    "name": "SYS056",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS056",
+    "hostname": "SYS056",
+    "uptime": "2022/3/29 3:31:5",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "7.95GB",
+      "used": "4.17GB",
+      "free": "3.79GB",
+      "percentage": 52.4
+    },
+    "network": {
+      "hostname": "SYS056",
+      "ip": "192.168.18.109",
+      "mac": "1c:1b:0d:c1:e8:77"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "96.35GB",
+      "free": "14.82GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1897.0MB",
+        "151.0MB",
+        "2048.0MB",
+        "nan%",
+        "33.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220877319547adf68222595"
+  },
+  "sys_name": "SYS023",
+  "last_run": "04/03/2022 03:33:26",
+  "user": {
+    "Users": [],
+    "active": "SYS023$"
+  },
+  "os": {
+    "name": "SYS023",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS023",
+    "hostname": "SYS023",
+    "uptime": "2022/3/3 3:33:58",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.95GB",
+      "used": "1.68GB",
+      "free": "14.27GB",
+      "percentage": 10.5
+    },
+    "network": {
+      "hostname": "SYS023",
+      "ip": "192.168.18.110",
+      "mac": "d8:5e:d3:61:26:7e"
+    },
+    "disk": {
+      "total": "111.18GB",
+      "used": "45.45GB",
+      "free": "65.73GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1985.0MB",
+        "63.0MB",
+        "2048.0MB",
+        "nan%",
+        "37.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220878119547adf682226d5"
+  },
+  "sys_name": "SYS392",
+  "last_run": "29/03/2022 20:37:27",
+  "user": {
+    "Users": [
+      "LT"
+    ],
+    "active": "SYS392$"
+  },
+  "os": {
+    "name": "SYS392",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS392",
+    "hostname": "SYS392",
+    "uptime": "2022/3/29 3:31:2",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "5.01GB",
+      "free": "10.89GB",
+      "percentage": 31.5
+    },
+    "network": {
+      "hostname": "SYS392",
+      "ip": "192.168.18.111",
+      "mac": "d8:bb:c1:3f:8a:7a"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "112.73GB",
+      "free": "119.53GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1757.0MB",
+        "291.0MB",
+        "2048.0MB",
+        "0.0%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220879019547adf68222838"
+  },
+  "sys_name": "SYS243",
+  "last_run": "04/03/2022 03:33:21",
+  "user": {
+    "Users": [],
+    "active": "SYS243$"
+  },
+  "os": {
+    "name": "SYS243",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS243",
+    "hostname": "SYS243",
+    "uptime": "2022/3/3 3:33:55",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "1.76GB",
+      "free": "14.18GB",
+      "percentage": 11
+    },
+    "network": {
+      "hostname": "SYS243",
+      "ip": "192.168.18.112",
+      "mac": "b4:2e:99:53:27:7d"
+    },
+    "disk": {
+      "total": "237.86GB",
+      "used": "66.30GB",
+      "free": "171.56GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1967.0MB",
+        "81.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220879e19547adf682229a9"
+  },
+  "sys_name": "SYS220",
+  "last_run": "29/03/2022 13:26:53",
+  "user": {
+    "Users": [
+      "artist"
+    ],
+    "active": "SYS220$"
+  },
+  "os": {
+    "name": "SYS220",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS220",
+    "hostname": "SYS220",
+    "uptime": "2022/3/29 3:31:11",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "7.40GB",
+      "free": "8.54GB",
+      "percentage": 46.4
+    },
+    "network": {
+      "hostname": "SYS220",
+      "ip": "192.168.18.113",
+      "mac": "e0:d5:5e:f9:f9:4a"
+    },
+    "disk": {
+      "total": "222.95GB",
+      "used": "111.07GB",
+      "free": "111.88GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1432.0MB",
+        "616.0MB",
+        "2048.0MB",
+        "3.0%",
+        "39.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622087ab19547adf68222af7"
+  },
+  "sys_name": "SYS370",
+  "last_run": "29/03/2022 13:27:09",
+  "user": {
+    "Users": [
+      "Iqbal1470"
+    ],
+    "active": "SYS370$"
+  },
+  "os": {
+    "name": "SYS370",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS370",
+    "hostname": "SYS370",
+    "uptime": "2022/3/29 3:31:13",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "10.86GB",
+      "free": "5.04GB",
+      "percentage": 68.3
+    },
+    "network": {
+      "hostname": "SYS370",
+      "ip": "192.168.18.114",
+      "mac": "d8:bb:c1:3f:8a:be"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "118.49GB",
+      "free": "113.77GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "684.0MB",
+        "1364.0MB",
+        "2048.0MB",
+        "4.0%",
+        "37.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622087b719547adf68222c35"
+  },
+  "sys_name": "SYS376",
+  "last_run": "29/03/2022 20:37:28",
+  "user": {
+    "Users": [
+      "LT"
+    ],
+    "active": "SYS376$"
+  },
+  "os": {
+    "name": "SYS376",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS376",
+    "hostname": "SYS376",
+    "uptime": "2022/3/29 3:31:4",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "7.14GB",
+      "free": "8.76GB",
+      "percentage": 44.9
+    },
+    "network": {
+      "hostname": "SYS376",
+      "ip": "192.168.18.115",
+      "mac": "d8:bb:c1:3f:8a:bf"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "131.77GB",
+      "free": "100.49GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1472.0MB",
+        "576.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622087c319547adf68222d6b"
+  },
+  "sys_name": "SYS344",
+  "last_run": "29/03/2022 20:37:29",
+  "user": {
+    "Users": [
+      "LT"
+    ],
+    "active": "SYS344$"
+  },
+  "os": {
+    "name": "SYS344",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS344",
+    "hostname": "SYS344",
+    "uptime": "2022/3/29 3:31:2",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "6.06GB",
+      "free": "9.87GB",
+      "percentage": 38
+    },
+    "network": {
+      "hostname": "SYS344",
+      "ip": "192.168.18.116",
+      "mac": "d8:bb:c1:6b:19:4a"
+    },
+    "disk": {
+      "total": "237.86GB",
+      "used": "134.98GB",
+      "free": "102.87GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1624.0MB",
+        "424.0MB",
+        "2048.0MB",
+        "0.0%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622087ea19547adf68223ab2"
+  },
+  "sys_name": "FG-20",
+  "last_run": "29/03/2022 13:27:03",
+  "user": {
+    "Users": [
+      "Varinder384"
+    ],
+    "active": "FG-20$"
+  },
+  "os": {
+    "name": "FG-20",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "FG-20",
+    "hostname": "FG-20",
+    "uptime": "2022/3/29 3:31:11",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.95GB",
+      "used": "9.64GB",
+      "free": "6.30GB",
+      "percentage": 60.5
+    },
+    "network": {
+      "hostname": "FG-20",
+      "ip": "127.0.0.1",
+      "mac": "18:c0:4d:5a:94:02"
+    },
+    "disk": {
+      "total": "111.18GB",
+      "used": "73.62GB",
+      "free": "37.56GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "122.0MB",
+        "1926.0MB",
+        "2048.0MB",
+        "1.0%",
+        "37.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622087f619547adf68223bf2"
+  },
+  "sys_name": "SYS348",
+  "last_run": "29/03/2022 20:37:33",
+  "user": {
+    "Users": [
+      "LT"
+    ],
+    "active": "SYS348$"
+  },
+  "os": {
+    "name": "SYS348",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS348",
+    "hostname": "SYS348",
+    "uptime": "2022/3/29 3:31:4",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "5.89GB",
+      "free": "10.05GB",
+      "percentage": 37
+    },
+    "network": {
+      "hostname": "SYS348",
+      "ip": "192.168.18.119",
+      "mac": "d8:bb:c1:19:54:67"
+    },
+    "disk": {
+      "total": "237.86GB",
+      "used": "95.34GB",
+      "free": "142.52GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1571.0MB",
+        "477.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220880219547adf68223d37"
+  },
+  "sys_name": "SYS209",
+  "last_run": "29/03/2022 13:26:56",
+  "user": {
+    "Users": [],
+    "active": "SYS209$"
+  },
+  "os": {
+    "name": "SYS209",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS209",
+    "hostname": "SYS209",
+    "uptime": "2022/3/29 3:31:7",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.58GB",
+      "free": "13.35GB",
+      "percentage": 16.2
+    },
+    "network": {
+      "hostname": "SYS209",
+      "ip": "192.168.18.120",
+      "mac": "f8:e4:3b:0d:fc:c2"
+    },
+    "disk": {
+      "total": "222.95GB",
+      "used": "107.58GB",
+      "free": "115.37GB"
+    },
+    "gpu": [
+      [
+        "NVIDIA GeForce GT 1030",
+        "1936.0MB",
+        "112.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220880e19547adf68223e73"
+  },
+  "sys_name": "SYS366",
+  "last_run": "29/03/2022 13:27:09",
+  "user": {
+    "Users": [],
+    "active": "SYS366$"
+  },
+  "os": {
+    "name": "SYS366",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS366",
+    "hostname": "SYS366",
+    "uptime": "2022/3/29 3:31:3",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.66GB",
+      "free": "13.24GB",
+      "percentage": 16.8
+    },
+    "network": {
+      "hostname": "SYS366",
+      "ip": "192.168.18.132",
+      "mac": "d8:bb:c1:5e:bc:c9"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "166.82GB",
+      "free": "65.45GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "26.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220881c19547adf68223fea"
+  },
+  "sys_name": "SYS368",
+  "last_run": "29/03/2022 20:37:30",
+  "user": {
+    "Users": [],
+    "active": "SYS368$"
+  },
+  "os": {
+    "name": "SYS368",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS368",
+    "hostname": "SYS368",
+    "uptime": "2022/3/29 3:31:6",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.92GB",
+      "free": "12.98GB",
+      "percentage": 18.4
+    },
+    "network": {
+      "hostname": "SYS368",
+      "ip": "192.168.18.133",
+      "mac": "d8:bb:c1:3f:8a:ab"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "95.74GB",
+      "free": "136.52GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "29.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220882919547adf68224159"
+  },
+  "sys_name": "SYS353",
+  "last_run": "29/03/2022 13:26:42",
+  "user": {
+    "Users": [],
+    "active": "SYS353$"
+  },
+  "os": {
+    "name": "SYS353",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS353",
+    "hostname": "SYS353",
+    "uptime": "2022/3/29 3:31:11",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.62GB",
+      "free": "13.28GB",
+      "percentage": 16.5
+    },
+    "network": {
+      "hostname": "SYS353",
+      "ip": "192.168.18.134",
+      "mac": "d8:bb:c1:3f:8a:ad"
+    },
+    "disk": {
+      "total": "116.57GB",
+      "used": "81.84GB",
+      "free": "34.72GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220883619547adf682242c9"
+  },
+  "sys_name": "SYS394",
+  "last_run": "29/03/2022 13:26:46",
+  "user": {
+    "Users": [],
+    "active": "SYS394$"
+  },
+  "os": {
+    "name": "SYS394",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS394",
+    "hostname": "SYS394",
+    "uptime": "2022/3/29 3:31:9",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.58GB",
+      "free": "13.32GB",
+      "percentage": 16.2
+    },
+    "network": {
+      "hostname": "SYS394",
+      "ip": "192.168.18.135",
+      "mac": "d8:bb:c1:3f:8a:9a"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "97.21GB",
+      "free": "135.06GB"
+    },
+    "gpu": [
+      [
+        "NVIDIA GeForce GT 1030",
+        "1958.0MB",
+        "90.0MB",
+        "2048.0MB",
+        "0.0%",
+        "26.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220884b19547adf68224cd1"
+  },
+  "sys_name": "SYS335",
+  "last_run": "29/03/2022 20:37:26",
+  "user": {
+    "Users": [
+      "Artist"
+    ],
+    "active": "SYS335$"
+  },
+  "os": {
+    "name": "SYS335",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS335",
+    "hostname": "SYS335",
+    "uptime": "2022/3/29 15:24:30",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "5.20GB",
+      "free": "10.74GB",
+      "percentage": 32.6
+    },
+    "network": {
+      "hostname": "SYS335",
+      "ip": "192.168.18.136",
+      "mac": "d8:bb:c1:10:46:2e"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "111.73GB",
+      "free": "120.54GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1797.0MB",
+        "251.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220885819547adf6822500d"
+  },
+  "sys_name": "SYS024",
+  "last_run": "29/03/2022 13:27:16",
+  "user": {
+    "Users": [],
+    "active": "SYS024$"
+  },
+  "os": {
+    "name": "SYS024",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS024",
+    "hostname": "SYS024",
+    "uptime": "2022/3/29 3:31:9",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.32GB",
+      "free": "13.62GB",
+      "percentage": 14.6
+    },
+    "network": {
+      "hostname": "SYS024",
+      "ip": "192.168.18.137",
+      "mac": "1c:1b:0d:7a:77:9e"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "93.85GB",
+      "free": "17.32GB"
+    },
+    "gpu": [
+      [
+        "NVIDIA GeForce GT 730",
+        "1985.0MB",
+        "63.0MB",
+        "2048.0MB",
+        "nan%",
+        "0.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220886619547adf68225195"
+  },
+  "sys_name": "SYS211",
+  "last_run": "29/03/2022 20:37:23",
+  "user": {
+    "Users": [
+      "Nikesh1438"
+    ],
+    "active": "SYS211$"
+  },
+  "os": {
+    "name": "SYS211",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS211",
+    "hostname": "SYS211",
+    "uptime": "2022/3/29 3:31:9",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "4.67GB",
+      "free": "11.26GB",
+      "percentage": 29.3
+    },
+    "network": {
+      "hostname": "SYS211",
+      "ip": "192.168.18.139",
+      "mac": "e0:d5:5e:f9:f9:8b"
+    },
+    "disk": {
+      "total": "222.95GB",
+      "used": "109.33GB",
+      "free": "113.62GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1811.0MB",
+        "237.0MB",
+        "2048.0MB",
+        "0.0%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220887219547adf682252d6"
+  },
+  "sys_name": "SYS026",
+  "last_run": "04/03/2022 03:33:43",
+  "user": {
+    "Users": [
+      "QA"
+    ],
+    "active": "SYS026$"
+  },
+  "os": {
+    "name": "SYS026",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS026",
+    "hostname": "SYS026",
+    "uptime": "2022/3/3 3:34:22",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "2.63GB",
+      "free": "13.32GB",
+      "percentage": 16.5
+    },
+    "network": {
+      "hostname": "SYS026",
+      "ip": "192.168.18.140",
+      "mac": "e0:d5:5e:02:d9:4d"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "63.05GB",
+      "free": "48.12GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1799.0MB",
+        "249.0MB",
+        "2048.0MB",
+        "nan%",
+        "36.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220888119547adf6822548b"
+  },
+  "sys_name": "SYS025",
+  "last_run": "29/03/2022 20:37:26",
+  "user": {
+    "Users": [
+      "1460.Akshay"
+    ],
+    "active": "SYS025$"
+  },
+  "os": {
+    "name": "SYS025",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS025",
+    "hostname": "SYS025",
+    "uptime": "2022/3/29 3:31:25",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "7.94GB",
+      "used": "3.63GB",
+      "free": "4.32GB",
+      "percentage": 45.7
+    },
+    "network": {
+      "hostname": "SYS025",
+      "ip": "192.168.18.141",
+      "mac": "1c:1b:0d:7b:83:cc"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "75.03GB",
+      "free": "36.14GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1868.0MB",
+        "180.0MB",
+        "2048.0MB",
+        "nan%",
+        "35.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220888f19547adf6822562f"
+  },
+  "sys_name": "SYS214",
+  "last_run": "29/03/2022 13:25:34",
+  "user": {
+    "Users": [
+      "artist"
+    ],
+    "active": "SYS214$"
+  },
+  "os": {
+    "name": "SYS214",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS214",
+    "hostname": "SYS214",
+    "uptime": "2022/3/29 3:31:11",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "7.98GB",
+      "free": "7.95GB",
+      "percentage": 50.1
+    },
+    "network": {
+      "hostname": "SYS214",
+      "ip": "192.168.18.142",
+      "mac": "e0:d5:5e:f9:fe:20"
+    },
+    "disk": {
+      "total": "116.57GB",
+      "used": "81.69GB",
+      "free": "34.88GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1086.0MB",
+        "962.0MB",
+        "2048.0MB",
+        "3.0%",
+        "34.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220889b19547adf682257bb"
+  },
+  "sys_name": "SYS358",
+  "last_run": "29/03/2022 20:37:27",
+  "user": {
+    "Users": [],
+    "active": "SYS358$"
+  },
+  "os": {
+    "name": "SYS358",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS358",
+    "hostname": "SYS358",
+    "uptime": "2022/3/29 3:31:9",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.93GB",
+      "free": "12.97GB",
+      "percentage": 18.4
+    },
+    "network": {
+      "hostname": "SYS358",
+      "ip": "192.168.18.143",
+      "mac": "d8:bb:c1:5e:bc:d8"
+    },
+    "disk": {
+      "total": "126.33GB",
+      "used": "94.27GB",
+      "free": "32.06GB"
+    },
+    "gpu": [
+      [
+        "NVIDIA GeForce GT 1030",
+        "1958.0MB",
+        "90.0MB",
+        "2048.0MB",
+        "0.0%",
+        "31.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622088a819547adf68225942"
+  },
+  "sys_name": "SYS205",
+  "last_run": "29/03/2022 13:16:55",
+  "user": {
+    "Users": [],
+    "active": "SYS205$"
+  },
+  "os": {
+    "name": "SYS205",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS205",
+    "hostname": "SYS205",
+    "uptime": "2022/3/29 3:31:14",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.41GB",
+      "free": "13.53GB",
+      "percentage": 15.1
+    },
+    "network": {
+      "hostname": "SYS205",
+      "ip": "192.168.19.144",
+      "mac": "e0:d5:5e:7b:bc:5f"
+    },
+    "disk": {
+      "total": "222.95GB",
+      "used": "84.06GB",
+      "free": "138.89GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622088b519547adf68225aaf"
+  },
+  "sys_name": "SYS349",
+  "last_run": "29/03/2022 13:16:59",
+  "user": {
+    "Users": [],
+    "active": "SYS349$"
+  },
+  "os": {
+    "name": "SYS349",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS349",
+    "hostname": "SYS349",
+    "uptime": "2022/3/29 3:31:11",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.54GB",
+      "free": "13.40GB",
+      "percentage": 15.9
+    },
+    "network": {
+      "hostname": "SYS349",
+      "ip": "192.168.19.145",
+      "mac": "d8:bb:c1:10:45:ef"
+    },
+    "disk": {
+      "total": "238.46GB",
+      "used": "137.41GB",
+      "free": "101.04GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "31.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622088be19547adf6822618b"
+  },
+  "sys_name": "SYS336",
+  "last_run": "29/03/2022 13:16:53",
+  "user": {
+    "Users": [
+      "Vikram640"
+    ],
+    "active": "SYS336$"
+  },
+  "os": {
+    "name": "SYS336",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS336",
+    "hostname": "SYS336",
+    "uptime": "2022/3/29 3:31:23",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "3.04GB",
+      "free": "12.90GB",
+      "percentage": 19.1
+    },
+    "network": {
+      "hostname": "SYS336",
+      "ip": "192.168.19.146",
+      "mac": "d8:bb:c1:10:46:2f"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "112.39GB",
+      "free": "119.87GB"
+    },
+    "gpu": [
+      [
+        "NVIDIA GeForce GT 1030",
+        "1914.0MB",
+        "134.0MB",
+        "2048.0MB",
+        "0.0%",
+        "27.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622088cb19547adf682266f0"
+  },
+  "sys_name": "SYS373",
+  "last_run": "29/03/2022 13:16:46",
+  "user": {
+    "Users": [
+      "vindhyachal757"
+    ],
+    "active": "SYS373$"
+  },
+  "os": {
+    "name": "SYS373",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS373",
+    "hostname": "SYS373",
+    "uptime": "2022/3/29 3:31:15",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "6.95GB",
+      "free": "8.94GB",
+      "percentage": 43.7
+    },
+    "network": {
+      "hostname": "SYS373",
+      "ip": "192.168.19.147",
+      "mac": "d8:bb:c1:5e:bd:c6"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "112.65GB",
+      "free": "119.62GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "109.0MB",
+        "1939.0MB",
+        "2048.0MB",
+        "0.0%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622088d719547adf68226871"
+  },
+  "sys_name": "SYS337",
+  "last_run": "29/03/2022 13:16:55",
+  "user": {
+    "Users": [],
+    "active": "SYS337$"
+  },
+  "os": {
+    "name": "SYS337",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS337",
+    "hostname": "SYS337",
+    "uptime": "2022/3/29 3:31:15",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.70GB",
+      "free": "13.24GB",
+      "percentage": 17
+    },
+    "network": {
+      "hostname": "SYS337",
+      "ip": "192.168.19.148",
+      "mac": "d8:bb:c1:10:46:f6"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "83.39GB",
+      "free": "148.88GB"
+    },
+    "gpu": [
+      [
+        "NVIDIA GeForce GT 1030",
+        "1958.0MB",
+        "90.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622088e419547adf682269e6"
+  },
+  "sys_name": "SYS345",
+  "last_run": "29/03/2022 13:17:02",
+  "user": {
+    "Users": [],
+    "active": "SYS345$"
+  },
+  "os": {
+    "name": "SYS345",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS345",
+    "hostname": "SYS345",
+    "uptime": "2022/3/29 3:31:13",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.62GB",
+      "free": "13.32GB",
+      "percentage": 16.4
+    },
+    "network": {
+      "hostname": "SYS345",
+      "ip": "192.168.19.149",
+      "mac": "d8:bb:c1:10:45:f5"
+    },
+    "disk": {
+      "total": "237.86GB",
+      "used": "102.02GB",
+      "free": "135.83GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "25.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622088f519547adf68226bf2"
+  },
+  "sys_name": "SYS381",
+  "last_run": "29/03/2022 13:16:53",
+  "user": {
+    "Users": [],
+    "active": "SYS381$"
+  },
+  "os": {
+    "name": "SYS381",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS381",
+    "hostname": "SYS381",
+    "uptime": "2022/3/29 3:31:15",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.51GB",
+      "free": "13.39GB",
+      "percentage": 15.8
+    },
+    "network": {
+      "hostname": "SYS381",
+      "ip": "192.168.19.151",
+      "mac": "d8:bb:c1:3f:8b:2d"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "97.32GB",
+      "free": "134.95GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "29.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220890119547adf68226d82"
+  },
+  "sys_name": "SYS343",
+  "last_run": "29/03/2022 13:16:50",
+  "user": {
+    "Users": [],
+    "active": "SYS343$"
+  },
+  "os": {
+    "name": "SYS343",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS343",
+    "hostname": "SYS343",
+    "uptime": "2022/3/29 3:31:16",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.63GB",
+      "free": "13.31GB",
+      "percentage": 16.5
+    },
+    "network": {
+      "hostname": "SYS343",
+      "ip": "192.168.19.152",
+      "mac": "d8:bb:c1:19:54:4e"
+    },
+    "disk": {
+      "total": "237.86GB",
+      "used": "119.62GB",
+      "free": "118.23GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "29.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220890c19547adf68226ee9"
+  },
+  "sys_name": "sys251",
+  "last_run": "29/03/2022 13:17:03",
+  "user": {
+    "Users": [],
+    "active": "SYS251$"
+  },
+  "os": {
+    "name": "sys251",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "sys251",
+    "hostname": "sys251",
+    "uptime": "2022/3/29 3:31:51",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 5, GenuineIntel",
+      "cores": 10,
+      "threads": 20,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "31.87GB",
+      "used": "3.27GB",
+      "free": "28.60GB",
+      "percentage": 10.3
+    },
+    "network": {
+      "hostname": "sys251",
+      "ip": "192.168.19.153",
+      "mac": "18:c0:4d:e0:97:0c"
+    },
+    "disk": {
+      "total": "243.51GB",
+      "used": "182.91GB",
+      "free": "60.60GB"
+    },
+    "gpu": [
+      [
+        "NVIDIA GeForce GTX 1650 SUPER",
+        "3908.0MB",
+        "188.0MB",
+        "4096.0MB",
+        "0.0%",
+        "33.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220891819547adf68227074"
+  },
+  "sys_name": "SYS389",
+  "last_run": "29/03/2022 13:16:52",
+  "user": {
+    "Users": [],
+    "active": "SYS389$"
+  },
+  "os": {
+    "name": "SYS389",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS389",
+    "hostname": "SYS389",
+    "uptime": "2022/3/29 3:31:27",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.53GB",
+      "free": "13.37GB",
+      "percentage": 15.9
+    },
+    "network": {
+      "hostname": "SYS389",
+      "ip": "192.168.19.154",
+      "mac": "d8:bb:c1:3f:8a:b6"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "102.49GB",
+      "free": "129.78GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "27.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220892a19547adf682272c9"
+  },
+  "sys_name": "SYS240",
+  "last_run": "29/03/2022 13:17:02",
+  "user": {
+    "Users": [],
+    "active": "SYS240$"
+  },
+  "os": {
+    "name": "SYS240",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS240",
+    "hostname": "SYS240",
+    "uptime": "2022/3/29 3:31:22",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "2.27GB",
+      "free": "13.66GB",
+      "percentage": 14.3
+    },
+    "network": {
+      "hostname": "SYS240",
+      "ip": "192.168.19.155",
+      "mac": "b4:2e:99:53:26:0a"
+    },
+    "disk": {
+      "total": "222.96GB",
+      "used": "69.42GB",
+      "free": "153.53GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "31.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220893719547adf682279fc"
+  },
+  "sys_name": "SYS338",
+  "last_run": "29/03/2022 13:17:04",
+  "user": {
+    "Users": [],
+    "active": "SYS338$"
+  },
+  "os": {
+    "name": "SYS338",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS338",
+    "hostname": "SYS338",
+    "uptime": "2022/3/29 3:31:18",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.45GB",
+      "free": "13.49GB",
+      "percentage": 15.4
+    },
+    "network": {
+      "hostname": "SYS338",
+      "ip": "192.168.19.156",
+      "mac": "d8:bb:c1:10:46:40"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "103.33GB",
+      "free": "128.93GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220894419547adf68227f8d"
+  },
+  "sys_name": "SYS225",
+  "last_run": "29/03/2022 13:17:00",
+  "user": {
+    "Users": [],
+    "active": "SYS225$"
+  },
+  "os": {
+    "name": "SYS225",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS225",
+    "hostname": "SYS225",
+    "uptime": "2022/3/29 3:32:1",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "2.42GB",
+      "free": "13.51GB",
+      "percentage": 15.2
+    },
+    "network": {
+      "hostname": "SYS225",
+      "ip": "192.168.19.157",
+      "mac": "b4:2e:99:51:bd:08"
+    },
+    "disk": {
+      "total": "105.78GB",
+      "used": "85.80GB",
+      "free": "19.98GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "27.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220895019547adf68228117"
+  },
+  "sys_name": "SYS365",
+  "last_run": "29/03/2022 13:17:02",
+  "user": {
+    "Users": [],
+    "active": "SYS365$"
+  },
+  "os": {
+    "name": "SYS365",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS365",
+    "hostname": "SYS365",
+    "uptime": "2022/3/29 3:31:23",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.52GB",
+      "free": "13.38GB",
+      "percentage": 15.8
+    },
+    "network": {
+      "hostname": "SYS365",
+      "ip": "192.168.19.158",
+      "mac": "d8:bb:c1:5e:bc:c4"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "76.47GB",
+      "free": "155.80GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220895f19547adf68228302"
+  },
+  "sys_name": "SYS232",
+  "last_run": "29/03/2022 13:16:57",
+  "user": {
+    "Users": [],
+    "active": "SYS232$"
+  },
+  "os": {
+    "name": "SYS232",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS232",
+    "hostname": "SYS232",
+    "uptime": "2022/3/29 3:31:38",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "2.48GB",
+      "free": "13.46GB",
+      "percentage": 15.5
+    },
+    "network": {
+      "hostname": "SYS232",
+      "ip": "192.168.19.159",
+      "mac": "b4:2e:99:53:25:6b"
+    },
+    "disk": {
+      "total": "222.53GB",
+      "used": "196.96GB",
+      "free": "25.57GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220896f19547adf68228526"
+  },
+  "sys_name": "SYS219",
+  "last_run": "29/03/2022 13:16:52",
+  "user": {
+    "Users": [
+      "rahman572"
+    ],
+    "active": "SYS219$"
+  },
+  "os": {
+    "name": "SYS219",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS219",
+    "hostname": "SYS219",
+    "uptime": "2022/3/29 3:31:55",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "6.80GB",
+      "free": "9.13GB",
+      "percentage": 42.7
+    },
+    "network": {
+      "hostname": "SYS219",
+      "ip": "192.168.19.160",
+      "mac": "e0:d5:5e:f9:f0:de"
+    },
+    "disk": {
+      "total": "105.33GB",
+      "used": "90.68GB",
+      "free": "14.65GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1635.0MB",
+        "413.0MB",
+        "2048.0MB",
+        "0.0%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220898d19547adf68228912"
+  },
+  "sys_name": "sys388",
+  "last_run": "29/03/2022 13:16:56",
+  "user": {
+    "Users": [],
+    "active": "SYS388$"
+  },
+  "os": {
+    "name": "sys388",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "sys388",
+    "hostname": "sys388",
+    "uptime": "2022/3/29 3:31:17",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.53GB",
+      "free": "13.37GB",
+      "percentage": 15.9
+    },
+    "network": {
+      "hostname": "sys388",
+      "ip": "192.168.19.161",
+      "mac": "d8:bb:c1:3f:8a:9c"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "92.41GB",
+      "free": "139.86GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "29.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6220899b19547adf68228b03"
+  },
+  "sys_name": "SYS102",
+  "last_run": "29/03/2022 13:16:51",
+  "user": {
+    "Users": [],
+    "active": "SYS102$"
+  },
+  "os": {
+    "name": "SYS102",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS102",
+    "hostname": "SYS102",
+    "uptime": "2022/3/29 3:31:43",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "31.96GB",
+      "used": "2.76GB",
+      "free": "29.20GB",
+      "percentage": 8.6
+    },
+    "network": {
+      "hostname": "SYS102",
+      "ip": "192.168.19.162",
+      "mac": "1c:1b:0d:ff:b4:d5"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "106.54GB",
+      "free": "4.63GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "26.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622089a819547adf68228d90"
+  },
+  "sys_name": "SYS378",
+  "last_run": "29/03/2022 13:17:18",
+  "user": {
+    "Users": [],
+    "active": "SYS378$"
+  },
+  "os": {
+    "name": "SYS378",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS378",
+    "hostname": "SYS378",
+    "uptime": "2022/3/29 3:31:25",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.59GB",
+      "free": "13.31GB",
+      "percentage": 16.3
+    },
+    "network": {
+      "hostname": "SYS378",
+      "ip": "192.168.19.163",
+      "mac": "d8:bb:c1:3f:8a:b8"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "142.98GB",
+      "free": "89.28GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "26.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622089b919547adf68229889"
+  },
+  "sys_name": "SYS371",
+  "last_run": "29/03/2022 00:55:53",
+  "user": {
+    "Users": [],
+    "active": "SYS371$"
+  },
+  "os": {
+    "name": "SYS371",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS371",
+    "hostname": "SYS371",
+    "uptime": "2022/3/28 23:1:26",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.27GB",
+      "free": "13.63GB",
+      "percentage": 14.3
+    },
+    "network": {
+      "hostname": "SYS371",
+      "ip": "192.168.19.164",
+      "mac": "d8:bb:c1:3f:8a:b9"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "78.42GB",
+      "free": "153.85GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622089c519547adf68229a3b"
+  },
+  "sys_name": "SYS339",
+  "last_run": "29/03/2022 13:16:54",
+  "user": {
+    "Users": [
+      "1483Devna"
+    ],
+    "active": "SYS339$"
+  },
+  "os": {
+    "name": "SYS339",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS339",
+    "hostname": "SYS339",
+    "uptime": "2022/3/29 3:31:41",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "31.94GB",
+      "used": "13.88GB",
+      "free": "18.06GB",
+      "percentage": 43.4
+    },
+    "network": {
+      "hostname": "SYS339",
+      "ip": "192.168.19.165",
+      "mac": "d8:bb:c1:10:46:76"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "173.67GB",
+      "free": "58.59GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "192.0MB",
+        "1856.0MB",
+        "2048.0MB",
+        "0.0%",
+        "39.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622089d219547adf68229bf5"
+  },
+  "sys_name": "SYS342",
+  "last_run": "29/03/2022 13:16:56",
+  "user": {
+    "Users": [
+      "293Aman"
+    ],
+    "active": "SYS342$"
+  },
+  "os": {
+    "name": "SYS342",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS342",
+    "hostname": "SYS342",
+    "uptime": "2022/3/29 10:1:13",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "5.33GB",
+      "free": "10.61GB",
+      "percentage": 33.4
+    },
+    "network": {
+      "hostname": "SYS342",
+      "ip": "192.168.19.166",
+      "mac": "d8:bb:c1:10:45:f1"
+    },
+    "disk": {
+      "total": "237.86GB",
+      "used": "145.76GB",
+      "free": "92.10GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1612.0MB",
+        "436.0MB",
+        "2048.0MB",
+        "0.0%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622089de19547adf68229dbc"
+  },
+  "sys_name": "SYS361",
+  "last_run": "29/03/2022 20:37:18",
+  "user": {
+    "Users": [
+      "Shiv700"
+    ],
+    "active": "SYS361$"
+  },
+  "os": {
+    "name": "SYS361",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS361",
+    "hostname": "SYS361",
+    "uptime": "2022/3/29 13:46:32",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "3.99GB",
+      "free": "11.91GB",
+      "percentage": 25.1
+    },
+    "network": {
+      "hostname": "SYS361",
+      "ip": "192.168.19.167",
+      "mac": "d8:bb:c1:5e:bc:e6"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "120.14GB",
+      "free": "112.13GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1834.0MB",
+        "214.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622089eb19547adf68229f7c"
+  },
+  "sys_name": "SYS350",
+  "last_run": "29/03/2022 13:17:02",
+  "user": {
+    "Users": [
+      "TM"
+    ],
+    "active": "SYS350$"
+  },
+  "os": {
+    "name": "SYS350",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS350",
+    "hostname": "SYS350",
+    "uptime": "2022/3/29 8:2:15",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "8.86GB",
+      "free": "7.08GB",
+      "percentage": 55.6
+    },
+    "network": {
+      "hostname": "SYS350",
+      "ip": "192.168.19.168",
+      "mac": "d8:bb:c1:10:45:fa"
+    },
+    "disk": {
+      "total": "237.86GB",
+      "used": "136.01GB",
+      "free": "101.85GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1200.0MB",
+        "848.0MB",
+        "2048.0MB",
+        "10.0%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "622089f919547adf6822a171"
+  },
+  "sys_name": "SYS332",
+  "last_run": "29/03/2022 13:16:55",
+  "user": {
+    "Users": [
+      "Paras"
+    ],
+    "active": "SYS332$"
+  },
+  "os": {
+    "name": "SYS332",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS332",
+    "hostname": "SYS332",
+    "uptime": "2022/3/29 3:31:22",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "10.34GB",
+      "free": "5.60GB",
+      "percentage": 64.9
+    },
+    "network": {
+      "hostname": "SYS332",
+      "ip": "192.168.19.170",
+      "mac": "d8:bb:c1:10:46:28"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "172.05GB",
+      "free": "60.22GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "134.0MB",
+        "1914.0MB",
+        "2048.0MB",
+        "0.0%",
+        "38.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208a0519547adf6822a335"
+  },
+  "sys_name": "SYS387",
+  "last_run": "29/03/2022 13:16:50",
+  "user": {
+    "Users": [
+      "559.Sapta"
+    ],
+    "active": "SYS387$"
+  },
+  "os": {
+    "name": "SYS387",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS387",
+    "hostname": "SYS387",
+    "uptime": "2022/3/29 7:45:49",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "13.26GB",
+      "free": "2.64GB",
+      "percentage": 83.4
+    },
+    "network": {
+      "hostname": "SYS387",
+      "ip": "192.168.19.171",
+      "mac": "d8:bb:c1:3f:8a:c0"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "145.55GB",
+      "free": "86.72GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "127.0MB",
+        "1921.0MB",
+        "2048.0MB",
+        "5.0%",
+        "37.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208a1319547adf6822a53c"
+  },
+  "sys_name": "SYS382",
+  "last_run": "29/03/2022 13:17:16",
+  "user": {
+    "Users": [
+      "sunny"
+    ],
+    "active": "SYS382$"
+  },
+  "os": {
+    "name": "SYS382",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS382",
+    "hostname": "SYS382",
+    "uptime": "2022/3/29 3:31:34",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "12.17GB",
+      "free": "3.73GB",
+      "percentage": 76.6
+    },
+    "network": {
+      "hostname": "SYS382",
+      "ip": "192.168.19.172",
+      "mac": "d8:bb:c1:3f:8b:05"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "188.95GB",
+      "free": "43.32GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "149.0MB",
+        "1899.0MB",
+        "2048.0MB",
+        "0.0%",
+        "38.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208a2119547adf6822aaa2"
+  },
+  "sys_name": "SYS379",
+  "last_run": "29/03/2022 13:16:51",
+  "user": {
+    "Users": [
+      "biwesh bhandari"
+    ],
+    "active": "SYS379$"
+  },
+  "os": {
+    "name": "SYS379",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS379",
+    "hostname": "SYS379",
+    "uptime": "2022/3/29 3:31:31",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "13.55GB",
+      "free": "2.35GB",
+      "percentage": 85.2
+    },
+    "network": {
+      "hostname": "SYS379",
+      "ip": "192.168.19.173",
+      "mac": "d8:bb:c1:3f:8a:9d"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "173.91GB",
+      "free": "58.35GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "218.0MB",
+        "1830.0MB",
+        "2048.0MB",
+        "0.0%",
+        "40.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208a2e19547adf6822b291"
+  },
+  "sys_name": "SYS333",
+  "last_run": "29/03/2022 13:17:02",
+  "user": {
+    "Users": [
+      "292Sidharth"
+    ],
+    "active": "SYS333$"
+  },
+  "os": {
+    "name": "SYS333",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS333",
+    "hostname": "SYS333",
+    "uptime": "2022/3/29 3:31:40",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "12.91GB",
+      "free": "3.03GB",
+      "percentage": 81
+    },
+    "network": {
+      "hostname": "SYS333",
+      "ip": "192.168.19.174",
+      "mac": "d8:bb:c1:10:46:67"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "188.55GB",
+      "free": "43.72GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "206.0MB",
+        "1842.0MB",
+        "2048.0MB",
+        "0.0%",
+        "40.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208a3a19547adf6822b467"
+  },
+  "sys_name": "SYS340",
+  "last_run": "29/03/2022 13:17:18",
+  "user": {
+    "Users": [
+      "nikhil.743"
+    ],
+    "active": "SYS340$"
+  },
+  "os": {
+    "name": "SYS340",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS340",
+    "hostname": "SYS340",
+    "uptime": "2022/3/29 3:31:25",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "12.24GB",
+      "free": "3.70GB",
+      "percentage": 76.8
+    },
+    "network": {
+      "hostname": "SYS340",
+      "ip": "192.168.19.176",
+      "mac": "d8:bb:c1:10:46:2b"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "176.02GB",
+      "free": "56.24GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "428.0MB",
+        "1620.0MB",
+        "2048.0MB",
+        "39.0%",
+        "46.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208a4c19547adf6822b6f9"
+  },
+  "sys_name": "FG-30",
+  "last_run": "29/03/2022 20:37:22",
+  "user": {
+    "Users": [
+      "1758.anuj"
+    ],
+    "active": "FG-30$"
+  },
+  "os": {
+    "name": "FG-30",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "FG-30",
+    "hostname": "FG-30",
+    "uptime": "2022/3/29 15:48:52",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "7.94GB",
+      "used": "3.71GB",
+      "free": "4.23GB",
+      "percentage": 46.7
+    },
+    "network": {
+      "hostname": "FG-30",
+      "ip": "192.168.19.177",
+      "mac": "08:62:66:38:24:36"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "68.21GB",
+      "free": "42.96GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1761.0MB",
+        "287.0MB",
+        "2048.0MB",
+        "nan%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208a5819547adf6822b8b7"
+  },
+  "sys_name": "SYS341",
+  "last_run": "29/03/2022 13:17:15",
+  "user": {
+    "Users": [],
+    "active": "SYS341$"
+  },
+  "os": {
+    "name": "SYS341",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS341",
+    "hostname": "SYS341",
+    "uptime": "2022/3/29 3:31:48",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "31.94GB",
+      "used": "3.10GB",
+      "free": "28.84GB",
+      "percentage": 9.7
+    },
+    "network": {
+      "hostname": "SYS341",
+      "ip": "192.168.19.178",
+      "mac": "d8:bb:c1:10:45:ea"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "110.37GB",
+      "free": "121.90GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208a6419547adf6822ba8b"
+  },
+  "sys_name": "SYS374",
+  "last_run": "29/03/2022 13:16:52",
+  "user": {
+    "Users": [
+      "666sufiyan"
+    ],
+    "active": "SYS374$"
+  },
+  "os": {
+    "name": "SYS374",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS374",
+    "hostname": "SYS374",
+    "uptime": "2022/3/29 3:31:31",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "8.27GB",
+      "free": "7.63GB",
+      "percentage": 52
+    },
+    "network": {
+      "hostname": "SYS374",
+      "ip": "192.168.19.179",
+      "mac": "d8:bb:c1:3f:8a:95"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "167.21GB",
+      "free": "65.06GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "171.0MB",
+        "1877.0MB",
+        "2048.0MB",
+        "0.0%",
+        "38.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208a7119547adf6822bc75"
+  },
+  "sys_name": "SYS401",
+  "last_run": "29/03/2022 13:17:13",
+  "user": {
+    "Users": [],
+    "active": "SYS401$"
+  },
+  "os": {
+    "name": "SYS401",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS401",
+    "hostname": "SYS401",
+    "uptime": "2022/3/29 3:31:29",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 5, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.56GB",
+      "free": "13.34GB",
+      "percentage": 16.1
+    },
+    "network": {
+      "hostname": "SYS401",
+      "ip": "192.168.19.180",
+      "mac": "d8:bb:c1:5e:c1:52"
+    },
+    "disk": {
+      "total": "237.85GB",
+      "used": "156.50GB",
+      "free": "81.35GB"
+    },
+    "gpu": [
+      [
+        "GeForce GTX 1650",
+        "3917.0MB",
+        "179.0MB",
+        "4096.0MB",
+        "0.0%",
+        "33.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208a7e19547adf6822be6f"
+  },
+  "sys_name": "SYS398",
+  "last_run": "29/03/2022 13:16:47",
+  "user": {
+    "Users": [
+      "Tushita"
+    ],
+    "active": "SYS398$"
+  },
+  "os": {
+    "name": "SYS398",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS398",
+    "hostname": "SYS398",
+    "uptime": "2022/3/29 3:31:37",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 5, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "8.28GB",
+      "free": "7.62GB",
+      "percentage": 52.1
+    },
+    "network": {
+      "hostname": "SYS398",
+      "ip": "192.168.19.181",
+      "mac": "d8:bb:c1:5e:c1:58"
+    },
+    "disk": {
+      "total": "237.85GB",
+      "used": "106.16GB",
+      "free": "131.69GB"
+    },
+    "gpu": [
+      [
+        "GeForce GTX 1650",
+        "3045.0MB",
+        "1051.0MB",
+        "4096.0MB",
+        "12.0%",
+        "34.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208a8a19547adf6822c054"
+  },
+  "sys_name": "SYS402",
+  "last_run": "29/03/2022 13:16:50",
+  "user": {
+    "Users": [
+      "Shorya.931"
+    ],
+    "active": "SYS402$"
+  },
+  "os": {
+    "name": "SYS402",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS402",
+    "hostname": "SYS402",
+    "uptime": "2022/3/29 3:31:49",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 5, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "12.72GB",
+      "free": "3.18GB",
+      "percentage": 80
+    },
+    "network": {
+      "hostname": "SYS402",
+      "ip": "192.168.19.182",
+      "mac": "d8:bb:c1:5e:c1:62"
+    },
+    "disk": {
+      "total": "237.85GB",
+      "used": "148.41GB",
+      "free": "89.45GB"
+    },
+    "gpu": [
+      [
+        "GeForce GTX 1650",
+        "2153.0MB",
+        "1943.0MB",
+        "4096.0MB",
+        "0.0%",
+        "42.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208a9719547adf6822c2ac"
+  },
+  "sys_name": "SYS399",
+  "last_run": "29/03/2022 13:16:59",
+  "user": {
+    "Users": [
+      "Ajay Dhingra 852"
+    ],
+    "active": "SYS399$"
+  },
+  "os": {
+    "name": "SYS399",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS399",
+    "hostname": "SYS399",
+    "uptime": "2022/3/29 3:31:50",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 5, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "7.81GB",
+      "free": "8.09GB",
+      "percentage": 49.1
+    },
+    "network": {
+      "hostname": "SYS399",
+      "ip": "192.168.19.183",
+      "mac": "d8:bb:c1:5e:c1:65"
+    },
+    "disk": {
+      "total": "237.85GB",
+      "used": "132.24GB",
+      "free": "105.61GB"
+    },
+    "gpu": [
+      [
+        "GeForce GTX 1650",
+        "2849.0MB",
+        "1247.0MB",
+        "4096.0MB",
+        "2.0%",
+        "33.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208aa619547adf6822cde5"
+  },
+  "sys_name": "SYS221",
+  "last_run": "29/03/2022 13:16:54",
+  "user": {
+    "Users": [
+      "666Sufiyan"
+    ],
+    "active": "SYS221$"
+  },
+  "os": {
+    "name": "SYS221",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS221",
+    "hostname": "SYS221",
+    "uptime": "2022/3/29 3:31:31",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "13.55GB",
+      "free": "2.38GB",
+      "percentage": 85
+    },
+    "network": {
+      "hostname": "SYS221",
+      "ip": "192.168.19.184",
+      "mac": "b4:2e:99:51:bc:e1"
+    },
+    "disk": {
+      "total": "222.97GB",
+      "used": "126.88GB",
+      "free": "96.08GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1156.0MB",
+        "892.0MB",
+        "2048.0MB",
+        "0.0%",
+        "35.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208ab719547adf6822d0b9"
+  },
+  "sys_name": "SYS103",
+  "last_run": "24/03/2022 15:14:55",
+  "user": {
+    "Users": [
+      "852Ajay"
+    ],
+    "active": "SYS103$"
+  },
+  "os": {
+    "name": "SYS103",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS103",
+    "hostname": "SYS103",
+    "uptime": "2022/3/24 3:33:54",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "31.95GB",
+      "used": "4.61GB",
+      "free": "27.34GB",
+      "percentage": 14.4
+    },
+    "network": {
+      "hostname": "SYS103",
+      "ip": "192.168.19.185",
+      "mac": "1c:1b:0d:ff:b4:bf"
+    },
+    "disk": {
+      "total": "110.72GB",
+      "used": "105.59GB",
+      "free": "5.13GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1837.0MB",
+        "211.0MB",
+        "2048.0MB",
+        "0.0%",
+        "38.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208acb19547adf6822d3f7"
+  },
+  "sys_name": "FG-17",
+  "last_run": "29/03/2022 13:16:57",
+  "user": {
+    "Users": [],
+    "active": "FG-17$"
+  },
+  "os": {
+    "name": "FG-17",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "FG-17",
+    "hostname": "FG-17",
+    "uptime": "2022/3/29 3:33:57",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "7.94GB",
+      "used": "2.18GB",
+      "free": "5.76GB",
+      "percentage": 27.5
+    },
+    "network": {
+      "hostname": "FG-17",
+      "ip": "192.168.19.190",
+      "mac": "40:8d:5c:35:e7:6d"
+    },
+    "disk": {
+      "total": "111.17GB",
+      "used": "52.69GB",
+      "free": "58.48GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1963.0MB",
+        "85.0MB",
+        "2048.0MB",
+        "nan%",
+        "26.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208adb19547adf6822d66c"
+  },
+  "sys_name": "SYS009",
+  "last_run": "04/03/2022 00:05:24",
+  "user": {
+    "Users": [],
+    "active": "SYS009$"
+  },
+  "os": {
+    "name": "SYS009",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS009",
+    "hostname": "SYS009",
+    "uptime": "2022/3/3 3:34:33",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 94 Stepping 3, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "1.98GB",
+      "free": "13.98GB",
+      "percentage": 12.4
+    },
+    "network": {
+      "hostname": "SYS009",
+      "ip": "192.168.19.192",
+      "mac": "e0:d5:5e:02:ce:3d"
+    },
+    "disk": {
+      "total": "223.01GB",
+      "used": "75.37GB",
+      "free": "147.64GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "1933.0MB",
+        "115.0MB",
+        "2048.0MB",
+        "nan%",
+        "39.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208aec19547adf6822d912"
+  },
+  "sys_name": "SYS213",
+  "last_run": "29/03/2022 20:37:20",
+  "user": {
+    "Users": [
+      "1468.Sonu"
+    ],
+    "active": "SYS213$"
+  },
+  "os": {
+    "name": "SYS213",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS213",
+    "hostname": "SYS213",
+    "uptime": "2022/3/29 3:30:55",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "9.58GB",
+      "free": "6.36GB",
+      "percentage": 60.1
+    },
+    "network": {
+      "hostname": "SYS213",
+      "ip": "192.168.18.81",
+      "mac": "e0:d5:5e:f9:f9:bf"
+    },
+    "disk": {
+      "total": "116.57GB",
+      "used": "100.85GB",
+      "free": "15.72GB"
+    },
+    "gpu": [
+      [
+        "NVIDIA GeForce GT 1030",
+        "97.0MB",
+        "1951.0MB",
+        "2048.0MB",
+        "0.0%",
+        "29.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208afa19547adf6822db5d"
+  },
+  "sys_name": "SYS395",
+  "last_run": "29/03/2022 13:16:52",
+  "user": {
+    "Users": [
+      "222Ritesh"
+    ],
+    "active": "SYS395$"
+  },
+  "os": {
+    "name": "SYS395",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS395",
+    "hostname": "SYS395",
+    "uptime": "2022/3/29 3:34:7",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "6.74GB",
+      "free": "9.16GB",
+      "percentage": 42.4
+    },
+    "network": {
+      "hostname": "SYS395",
+      "ip": "192.168.19.195",
+      "mac": "d8:bb:c1:3f:8a:63"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "169.15GB",
+      "free": "63.11GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1652.0MB",
+        "396.0MB",
+        "2048.0MB",
+        "0.0%",
+        "28.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208b0b19547adf6822de1d"
+  },
+  "sys_name": "SYS393",
+  "last_run": "29/03/2022 13:17:28",
+  "user": {
+    "Users": [
+      "artist"
+    ],
+    "active": "SYS393$"
+  },
+  "os": {
+    "name": "SYS393",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS393",
+    "hostname": "SYS393",
+    "uptime": "2022/3/29 3:30:57",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "11.74GB",
+      "free": "4.16GB",
+      "percentage": 73.8
+    },
+    "network": {
+      "hostname": "SYS393",
+      "ip": "192.168.18.92",
+      "mac": "d8:bb:c1:3f:8a:67"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "147.44GB",
+      "free": "84.82GB"
+    },
+    "gpu": [
+      [
+        "NVIDIA GeForce GT 1030",
+        "137.0MB",
+        "1844.0MB",
+        "2048.0MB",
+        "0.0%",
+        "29.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208b1819547adf6822e5d6"
+  },
+  "sys_name": "SYS384",
+  "last_run": "29/03/2022 13:17:05",
+  "user": {
+    "Users": [
+      "Vinod kumar"
+    ],
+    "active": "SYS384$"
+  },
+  "os": {
+    "name": "SYS384",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS384",
+    "hostname": "SYS384",
+    "uptime": "2022/3/29 3:33:45",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "11.19GB",
+      "free": "4.71GB",
+      "percentage": 70.4
+    },
+    "network": {
+      "hostname": "SYS384",
+      "ip": "192.168.19.197",
+      "mac": "d8:bb:c1:3f:8a:62"
+    },
+    "disk": {
+      "total": "232.27GB",
+      "used": "152.83GB",
+      "free": "79.44GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1087.0MB",
+        "961.0MB",
+        "2048.0MB",
+        "0.0%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208b2519547adf6822eb9c"
+  },
+  "sys_name": "SYS210",
+  "last_run": "29/03/2022 13:16:50",
+  "user": {
+    "Users": [
+      "Sanchit Rajput"
+    ],
+    "active": "SYS210$"
+  },
+  "os": {
+    "name": "SYS210",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS210",
+    "hostname": "SYS210",
+    "uptime": "2022/3/29 3:34:4",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "7.49GB",
+      "free": "8.45GB",
+      "percentage": 47
+    },
+    "network": {
+      "hostname": "SYS210",
+      "ip": "192.168.19.198",
+      "mac": "e0:d5:5e:7b:bc:91"
+    },
+    "disk": {
+      "total": "222.95GB",
+      "used": "165.03GB",
+      "free": "57.92GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1275.0MB",
+        "773.0MB",
+        "2048.0MB",
+        "14.000000000000002%",
+        "35.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208b3619547adf6822ee72"
+  },
+  "sys_name": "SYS239",
+  "last_run": "29/03/2022 13:17:52",
+  "user": {
+    "Users": [
+      "Archit230"
+    ],
+    "active": "SYS239$"
+  },
+  "os": {
+    "name": "SYS239",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS239",
+    "hostname": "SYS239",
+    "uptime": "2022/3/29 3:31:15",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "8.94GB",
+      "free": "7.00GB",
+      "percentage": 56.1
+    },
+    "network": {
+      "hostname": "SYS239",
+      "ip": "192.168.18.89",
+      "mac": "b4:2e:99:51:be:ca"
+    },
+    "disk": {
+      "total": "222.96GB",
+      "used": "173.26GB",
+      "free": "49.70GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "577.0MB",
+        "1471.0MB",
+        "2048.0MB",
+        "0.0%",
+        "43.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208b4519547adf6822f0eb"
+  },
+  "sys_name": "SYS242",
+  "last_run": "29/03/2022 13:16:56",
+  "user": {
+    "Users": [
+      "Artist"
+    ],
+    "active": "SYS242$"
+  },
+  "os": {
+    "name": "SYS242",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS242",
+    "hostname": "SYS242",
+    "uptime": "2022/3/29 3:33:46",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "14.26GB",
+      "free": "1.68GB",
+      "percentage": 89.5
+    },
+    "network": {
+      "hostname": "SYS242",
+      "ip": "192.168.19.200",
+      "mac": "b4:2e:99:53:27:3c"
+    },
+    "disk": {
+      "total": "222.96GB",
+      "used": "87.43GB",
+      "free": "135.53GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1416.0MB",
+        "632.0MB",
+        "2048.0MB",
+        "4.0%",
+        "32.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208b5219547adf6822f322"
+  },
+  "sys_name": "SYS245",
+  "last_run": "29/03/2022 13:16:54",
+  "user": {
+    "Users": [
+      "Artist"
+    ],
+    "active": "SYS245$"
+  },
+  "os": {
+    "name": "SYS245",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS245",
+    "hostname": "SYS245",
+    "uptime": "2022/3/29 3:33:49",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.93GB",
+      "used": "8.21GB",
+      "free": "7.72GB",
+      "percentage": 51.6
+    },
+    "network": {
+      "hostname": "SYS245",
+      "ip": "192.168.19.201",
+      "mac": "b4:2e:99:53:27:37"
+    },
+    "disk": {
+      "total": "222.96GB",
+      "used": "91.93GB",
+      "free": "131.03GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "115.0MB",
+        "1933.0MB",
+        "2048.0MB",
+        "6.0%",
+        "34.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208b6319547adf6822f5e8"
+  },
+  "sys_name": "FG-36",
+  "last_run": "29/03/2022 13:16:58",
+  "user": {
+    "Users": [
+      "artist"
+    ],
+    "active": "FG-36$"
+  },
+  "os": {
+    "name": "FG-36",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "FG-36",
+    "hostname": "FG-36",
+    "uptime": "2022/3/29 3:33:47",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 58 Stepping 9, GenuineIntel",
+      "cores": 4,
+      "threads": 4,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.96GB",
+      "used": "9.70GB",
+      "free": "6.26GB",
+      "percentage": 60.8
+    },
+    "network": {
+      "hostname": "FG-36",
+      "ip": "192.168.19.202",
+      "mac": "74:d4:35:dd:a8:69"
+    },
+    "disk": {
+      "total": "222.95GB",
+      "used": "108.62GB",
+      "free": "114.33GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 730",
+        "66.0MB",
+        "1982.0MB",
+        "2048.0MB",
+        "nan%",
+        "36.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208b7019547adf6822f819"
+  },
+  "sys_name": "SYS403",
+  "last_run": "04/03/2022 03:34:28",
+  "user": {
+    "Users": [],
+    "active": "SYS403$"
+  },
+  "os": {
+    "name": "SYS403",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS403",
+    "hostname": "SYS403",
+    "uptime": "2022/3/3 3:34:41",
+    "cpu": {
+      "name": "AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "31.95GB",
+      "used": "3.44GB",
+      "free": "28.51GB",
+      "percentage": 10.8
+    },
+    "network": {
+      "hostname": "SYS403",
+      "ip": "192.168.19.203",
+      "mac": "18:c0:4d:71:8c:1d"
+    },
+    "disk": {
+      "total": "237.86GB",
+      "used": "87.50GB",
+      "free": "150.36GB"
+    },
+    "gpu": [
+      [
+        "GeForce GTX 1650",
+        "3915.0MB",
+        "181.0MB",
+        "4096.0MB",
+        "3.0%",
+        "35.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208b7f19547adf6822fac5"
+  },
+  "sys_name": "SYS351",
+  "last_run": "29/03/2022 20:37:28",
+  "user": {
+    "Users": [
+      "Artist"
+    ],
+    "active": "SYS351$"
+  },
+  "os": {
+    "name": "SYS351",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS351",
+    "hostname": "SYS351",
+    "uptime": "2022/3/29 15:14:21",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "7.51GB",
+      "free": "8.39GB",
+      "percentage": 47.3
+    },
+    "network": {
+      "hostname": "SYS351",
+      "ip": "10.6.26.81",
+      "mac": "d8:bb:c1:5e:c0:78"
+    },
+    "disk": {
+      "total": "237.87GB",
+      "used": "112.93GB",
+      "free": "124.94GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1333.0MB",
+        "715.0MB",
+        "2048.0MB",
+        "0.0%",
+        "31.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208b8d19547adf682302ad"
+  },
+  "sys_name": "SYS347",
+  "last_run": "29/03/2022 13:17:03",
+  "user": {
+    "Users": [],
+    "active": "SYS347$"
+  },
+  "os": {
+    "name": "SYS347",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS347",
+    "hostname": "SYS347",
+    "uptime": "2022/3/29 3:34:7",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.46GB",
+      "free": "13.44GB",
+      "percentage": 15.5
+    },
+    "network": {
+      "hostname": "SYS347",
+      "ip": "192.168.19.206",
+      "mac": "d8:bb:c1:5e:c0:7b"
+    },
+    "disk": {
+      "total": "223.02GB",
+      "used": "168.74GB",
+      "free": "54.28GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1938.0MB",
+        "110.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208b9919547adf6823088b"
+  },
+  "sys_name": "SYS230",
+  "last_run": "29/03/2022 13:16:50",
+  "user": {
+    "Users": [
+      "Ashish"
+    ],
+    "active": "SYS230$"
+  },
+  "os": {
+    "name": "SYS230",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS230",
+    "hostname": "SYS230",
+    "uptime": "2022/3/29 3:33:46",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "4.94GB",
+      "free": "10.96GB",
+      "percentage": 31.1
+    },
+    "network": {
+      "hostname": "SYS230",
+      "ip": "192.168.19.207",
+      "mac": "d8:bb:c1:5e:c0:89"
+    },
+    "disk": {
+      "total": "231.77GB",
+      "used": "128.03GB",
+      "free": "103.74GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1830.0MB",
+        "218.0MB",
+        "2048.0MB",
+        "0.0%",
+        "26.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208ba519547adf68230a96"
+  },
+  "sys_name": "SYS397",
+  "last_run": "04/03/2022 03:34:28",
+  "user": {
+    "Users": [],
+    "active": "SYS397$"
+  },
+  "os": {
+    "name": "SYS397",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS397",
+    "hostname": "SYS397",
+    "uptime": "2022/3/3 3:34:54",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 5, GenuineIntel",
+      "cores": 10,
+      "threads": 20,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "31.87GB",
+      "used": "2.33GB",
+      "free": "29.54GB",
+      "percentage": 7.3
+    },
+    "network": {
+      "hostname": "SYS397",
+      "ip": "192.168.19.208",
+      "mac": "d8:5e:d3:2c:c3:84"
+    },
+    "disk": {
+      "total": "465.13GB",
+      "used": "90.60GB",
+      "free": "374.53GB"
+    },
+    "gpu": [
+      [
+        "NVIDIA GeForce GTX 1650 SUPER",
+        "3940.0MB",
+        "14.0MB",
+        "4096.0MB",
+        "0.0%",
+        "37.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208bb119547adf68230ca8"
+  },
+  "sys_name": "SYS246",
+  "last_run": "29/03/2022 13:16:57",
+  "user": {
+    "Users": [],
+    "active": "SYS246$"
+  },
+  "os": {
+    "name": "SYS246",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS246",
+    "hostname": "SYS246",
+    "uptime": "2022/3/29 3:33:49",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "2.56GB",
+      "free": "13.34GB",
+      "percentage": 16.1
+    },
+    "network": {
+      "hostname": "SYS246",
+      "ip": "192.168.19.209",
+      "mac": "d8:bb:c1:5e:c0:75"
+    },
+    "disk": {
+      "total": "237.86GB",
+      "used": "103.67GB",
+      "free": "134.19GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208bc019547adf68230f36"
+  },
+  "sys_name": "SYS107",
+  "last_run": "29/03/2022 13:16:56",
+  "user": {
+    "Users": [
+      "270Avinash"
+    ],
+    "active": "SYS107$"
+  },
+  "os": {
+    "name": "SYS107",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS107",
+    "hostname": "SYS107",
+    "uptime": "2022/3/29 3:33:56",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "9.13GB",
+      "free": "6.80GB",
+      "percentage": 57.3
+    },
+    "network": {
+      "hostname": "SYS107",
+      "ip": "192.168.19.210",
+      "mac": "d8:bb:c1:07:ae:dc"
+    },
+    "disk": {
+      "total": "222.98GB",
+      "used": "117.63GB",
+      "free": "105.34GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "674.0MB",
+        "1374.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208bcb19547adf68231151"
+  },
+  "sys_name": "SYS346",
+  "last_run": "29/03/2022 13:17:36",
+  "user": {
+    "Users": [
+      "151.Aarti"
+    ],
+    "active": "SYS346$"
+  },
+  "os": {
+    "name": "SYS346",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS346",
+    "hostname": "SYS346",
+    "uptime": "2022/3/29 3:31:1",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "11.75GB",
+      "free": "4.15GB",
+      "percentage": 73.9
+    },
+    "network": {
+      "hostname": "SYS346",
+      "ip": "192.168.18.91",
+      "mac": "d8:bb:c1:5e:c0:8b"
+    },
+    "disk": {
+      "total": "237.86GB",
+      "used": "147.11GB",
+      "free": "90.74GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "138.0MB",
+        "1910.0MB",
+        "2048.0MB",
+        "0.0%",
+        "37.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62208bd919547adf6823138d"
+  },
+  "sys_name": "SYS202",
+  "last_run": "29/03/2022 13:16:55",
+  "user": {
+    "Users": [],
+    "active": "SYS202$"
+  },
+  "os": {
+    "name": "SYS202",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS202",
+    "hostname": "SYS202",
+    "uptime": "2022/3/29 3:33:49",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+      "cores": 6,
+      "threads": 6,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.94GB",
+      "used": "2.37GB",
+      "free": "13.56GB",
+      "percentage": 14.9
+    },
+    "network": {
+      "hostname": "SYS202",
+      "ip": "192.168.19.212",
+      "mac": "e0:d5:5e:7b:bc:5c"
+    },
+    "disk": {
+      "total": "222.95GB",
+      "used": "68.71GB",
+      "free": "154.24GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1962.0MB",
+        "86.0MB",
+        "2048.0MB",
+        "0.0%",
+        "26.0 °C"
+      ]
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62213b5719547adf684f199a"
+  },
+  "sys_name": "SYS356",
+  "last_run": "29/03/2022 13:26:43",
+  "user": {
+    "Users": [
+      "Biswajit.1548"
+    ],
+    "active": "SYS356$"
+  },
+  "os": {
+    "name": "SYS356",
+    "version": "10",
+    "arch": "AMD64"
+  },
+  "system": {
+    "name": "SYS356",
+    "hostname": "SYS356",
+    "uptime": "2022/3/29 3:31:9",
+    "cpu": {
+      "name": "Intel64 Family 6 Model 165 Stepping 3, GenuineIntel",
+      "cores": 6,
+      "threads": 12,
+      "arch": "AMD64"
+    },
+    "memory": {
+      "total": "15.90GB",
+      "used": "8.76GB",
+      "free": "7.14GB",
+      "percentage": 55.1
+    },
+    "network": {
+      "hostname": "SYS356",
+      "ip": "192.168.18.117",
+      "mac": "d8:bb:c1:5e:bc:c3"
+    },
+    "disk": {
+      "total": "116.57GB",
+      "used": "111.31GB",
+      "free": "5.26GB"
+    },
+    "gpu": [
+      [
+        "GeForce GT 1030",
+        "1080.0MB",
+        "968.0MB",
+        "2048.0MB",
+        "0.0%",
+        "30.0 °C"
+      ]
+    ]
+  }
+}]
