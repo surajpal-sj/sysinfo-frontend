@@ -1,0 +1,42 @@
+ /* search bar*/
+
+ .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  background-color: DodgerBlue;
+  color: white;
+  margin: 10px;
+  text-align: Left;
+  line-height: 75px;
+  font-size: 30px;
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  /* height: 300px; */
+  /* width: 200px; */
+  /* background-color: aquamarine; */
+  /* float: left; */
+
+;
+}
+
+
+
+.card:hover,
+.card:focus,
+.card:active {
+  color: black;
+  border-color: #0070f3;
+}
+
+.card h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+}
+
+.card p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}

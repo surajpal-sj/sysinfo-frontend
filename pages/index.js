@@ -1,8 +1,25 @@
 import Head from 'next/head'
+import React, { useEffect, useState } from 'react';
 import { Input } from '../lib/components/Input'
-import clientPromise, { connectToDatabase } from '../lib/mongodb'
+import Systemshort from '../lib/components/Systemshort';
+// import clientPromise, { connectToDatabase } from '../lib/mongodb'
 
-export default function Home({ info , sysresult}) {
+export default function Home({ }) {
+
+    const [systems, setSystems] = useState([])
+    const [isLoading, setLoading] = useState(false)
+    
+    useEffect(() => {
+      setLoading(true)
+      fetch('api/hello')
+        .then((res) => res.json())
+        .then((data) => {
+          setSystems(data.info)
+          setLoading(false)
+        })
+    }, [])
+
+    if (isLoading) return <p>Loading...</p>
   return (
     <div className="container">
       <Head>
@@ -11,18 +28,18 @@ export default function Home({ info , sysresult}) {
       </Head>
 
       <header>
-        <div className="sbar">
+        {/* <div className="sbar">
         <form onSubmit={searchsys}>
           <a className="active" href="#home">SYSINFO</a>
           <input type="text" placeholder="Search.."/>
           <button type="submit">search</button>
         </form>
-        </div>
+        </div> */}
         
       </header>
       <main>
         <div className='result'>
-          <p className='subtitle' >result is : {sysresult}.</p>
+          <p className='subtitle' >Total Systems is : {systems.length}.</p>
 
 
         </div>
@@ -30,42 +47,10 @@ export default function Home({ info , sysresult}) {
       
         
         <div className="grid">
-        {info && info.map(info =>(
-          <div className="card">
-            <p className="title">{info.sys_name} </p>
-            <span><p>updated : [{info.last_run}]</p></span>
-            <p className="subtitle">System info</p>
-            <p >System Name : {info.system.name}</p> 
-            <p >Uptime : {info.system.uptime}</p>
-            <p>IP :{info.system.network.ip}</p>
-            <p>Mac :{info.system.network.mac}</p>
-            <p>Hostname :{info.system.network.hostname}</p>
-            <p className='subtitle'>Active User : {info.user.Users}</p>
-
-
-            <p className="subtitle">CPU info</p> 
-            <p >CPU: {info.system.cpu.name}</p> 
-            <p >cores: {info.system.cpu.cores}</p> 
-            <p >Threads: {info.system.cpu.threads}</p> 
-            <p >Architecture: {info.system.cpu.arch}</p>
-
-            <p className="subtitle">R.A.M. info</p>
-            <p>Total :{info.system.memory.total}</p>
-            <p>Used :{info.system.memory.used} ({info.system.memory.percentage}%)</p>
-            <p>Free :{info.system.memory.free}</p>
-
-
-            <p className="subtitle">C drive info</p> 
-            <p>Total :{info.system.disk.total}</p>
-            <p>Used :{info.system.disk.used}</p>
-            <p>Free :{info.system.disk.free}</p> 
-           
-            </div>
-            
-          
-          
-
-        ))}
+        {systems && systems.map(system =>(
+          <Systemshort info={system} />
+        
+          ))}
         </div>
 
        
@@ -88,25 +73,7 @@ export default function Home({ info , sysresult}) {
       <style jsx>{`
 
         /* search bar*/
-
-
-
-
-        .card {
-          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-          padding: 16px;
-          background-color: DodgerBlue;
-          color: white;
-          margin: 10px;
-          text-align: Left;
-          line-height: 75px;
-          font-size: 30px;
-          text-decoration: none;
-          border: 1px solid #eaeaea;
-          border-radius: 10px;
-          transition: color 0.15s ease, border-color 0.15s ease;
-        }
-        
+   
         /* Float four columns side by side */
         .column {
           float: left;
@@ -214,24 +181,8 @@ export default function Home({ info , sysresult}) {
           
           font-weight: bold;
         }
-        .card:hover,
-        .card:focus,
-        .card:active {
-          color: black;
-          border-color: #0070f3;
-        }
-
-        .card h3 {
-          margin: 0 0 1rem 0;
-          font-size: 1.5rem;
-        }
-
-        .card p {
-          margin: 0;
-          font-size: 1.25rem;
-          line-height: 1.5;
-        }
-
+ 
+  
         .logo {
           height: 1em;
         }
@@ -263,46 +214,42 @@ export default function Home({ info , sysresult}) {
 
 export async function getServerSideProps(context) {
   try {
-    const { db } = await connectToDatabase()
-
-    const data = await db.collection("systeminfo").find({}).limit(150).toArray();
-
-    const info = JSON.parse(JSON.stringify(data));  //to resolve child error
+    // const { db } = await connectToDatabase()
 
 
-    await clientPromise
+    // await clientPromise
     return {
-      props: { info: info },
+      props: {  },
     }
   } catch (e) {
     console.error(e)
     return {
-      props: { isConnected: false },
+      props: { },
     }
   }
 }
 
-export async function findsysbyname(db,query) {
-  const sysresult = await db
-    .collection('systeminfo')
-    .aggregate([
-      { $match: { sys_name: new ObjectId(query) } },
-      { $limit: 1 }
-    ])
-    .toArray();
-  if (!sysresult[0]) return null;
-  console.log(sysresult[0]);
-}
+// export async function findsysbyname(db,query) {
+//   const sysresult = await db
+//     .collection('systeminfo')
+//     .aggregate([
+//       { $match: { sys_name: new ObjectId(query) } },
+//       { $limit: 1 }
+//     ])
+//     .toArray();
+//   if (!sysresult[0]) return null;
+//   console.log(sysresult[0]);
+// }
 
-function searchsys() {
-  let query = null;
-  const searchsys = async   event => {
-    event.preventDefault() // don't redirect the page
+// function searchsys() {
+//   let query = null;
+//   const searchsys = async   event => {
+//     event.preventDefault() // don't redirect the page
     
-    query= event.target.name.value
+//     query= event.target.name.value
 
-    return query ;
+//     return query ;
     
-  }
-  findsysbyname(searchsys)
-}
+//   }
+//   findsysbyname(searchsys)
+// }
